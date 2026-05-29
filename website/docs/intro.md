@@ -8,213 +8,173 @@ slug: /intro
 
 # Environmental Systems Literacy for Kids
 
-**A curriculum for understanding the planet as an engineered system.**
+**A kid-first curriculum for tracing how Earth's systems work and how people can redesign better ones.**
 
-Earth is a massive, mostly closed-loop machine. Energy flows in from the sun, drives weather, oceans, and life, and eventually radiates back out as heat. Matter — carbon, water, nitrogen, the atoms that make up everything — does not leave. It cycles. Every output becomes an input somewhere else, or the system jams.
+This course helps children ask good engineering questions about the world around them. Where did this come from? What is moving? Where does it go next? Is it part of a loop, or does it get stuck somewhere?
 
-This 14-week core sequence, plus a 4-week capstone, teaches students how that machine works, how human industrial systems plug into it, and why the two often interface badly. We treat the planet the way an engineer treats any complex system: identify the inputs, outputs, throughput, feedback loops, and load limits. When something is going wrong, we look for the mismatch, not the villain.
+The main voice of the course speaks to ages 8-12. The technical words are still here, but they come after the concrete idea, not before it. Adults get quick notes, misconceptions to watch for, and optional depth boxes for older learners.
 
-By the end of the course, students will keep a **Systems Log** — a running record of observations, measurements, and systems analyses that documents how their thinking has grown.
-
----
-
-:::tip Use This Page
-- Start with [The Big Idea](#the-big-idea) for the course philosophy.
-- Read [How to Use This Curriculum](#how-to-use-this-curriculum) for setup and pacing guidance.
-- Review [The Five Core Mental Models](#the-five-core-mental-models) to see the ideas that thread through every lesson.
-- Skim [Course at a Glance](#course-at-a-glance) for the full program structure.
-- Use [Getting Started](#getting-started) if you want the quickest path into the lessons.
+:::tip Start Here
+- Read [How to Use This Curriculum](#how-to-use-this-curriculum) for pacing and setup.
+- Skim [The Big Idea](#the-big-idea) for the systems framing.
+- Use [Course at a Glance](#course-at-a-glance) when you want the full 18-week map.
+- Begin with [Week 1: Sunlight Detective](./week01-the-planetary-engine.md) when you are ready to teach.
 :::
 
-:::info For Caregivers and Teachers
-- You do not need to read the full site in order. Start here, then move into the current week you are teaching.
-- Each weekly page is designed to be skimmed: review the Facilitator Snapshot, teach one session at a time, and come back later for the rest.
-- Use this page when you want the big-picture framing, not when you need minute-by-minute teaching directions.
+:::info Grown-up Note
+- This curriculum stays neutral and non-guilt-based. It does not teach that humans are villains, and it is not an activism curriculum.
+- The course uses warm, concrete language in the main flow and keeps heavier science and engineering terms in optional sections.
+- Plan for sessions that last about 20-30 minutes. Use the Short Path when you only have 15-20 minutes.
 :::
 
-## What This Curriculum Is — And What It Is Not
+## What This Curriculum Is
 
-**It is** a systems engineering literacy course that happens to use the planet as its case study. Students learn thermodynamics, biogeochemical cycles, feedback loops, carrying capacity, and the difference between linear and circular system designs. They learn to trace material flows, calculate sustainable yields, and diagnose where two systems are failing to interface.
+This is an environmental systems course with an engineering mindset.
 
-**It is not** environmental activism. It is not a guilt curriculum. It does not say "save the planet," "we are destroying nature," or "humans are bad." It does not take political positions on policy questions. The framing throughout is engineering: where is the mismatch, what is the load, where does the matter actually go.
+Children learn to:
 
-If a student finishes this course and chooses to act on what they have learned, that is their call to make. The course's job is to give them the analytical tools — not to tell them what to do with them.
+- trace where energy comes from
+- follow matter through loops and straight-line systems
+- notice when a system is getting overloaded
+- compare designs and think about tradeoffs
+- propose a better path for one real problem they can see
 
----
+The course uses environmental examples, but the deeper skill is systems thinking.
+
+## What This Curriculum Is Not
+
+This is not a guilt curriculum. It does not ask children to carry the whole planet on their shoulders. It does not depend on doom. It does not teach that every human-made system is foolish or evil.
+
+Instead, the course keeps asking a calmer question:
+
+> Where is the mismatch, and what would a better fit look like?
+
+If a student later wants to act on what they learned, that is their decision. The job of the course is to build clear thinking first.
 
 ## How to Use This Curriculum
 
-### Who It's For
+### Who It Is For
 
-This curriculum is designed for **adults working with kids ages 8–12** — parents, caregivers, classroom teachers, homeschool families, co-op groups, and after-school clubs. No background in environmental science, ecology, or engineering is required. If you can mix soil in a jar and read a glossary, you are qualified.
+This curriculum is designed for adults working with kids ages 8-12, including families, classrooms, homeschool groups, clubs, libraries, and co-ops. You do not need a science degree to use it.
 
-### What a Typical Week Looks Like
+### Weekly Structure
 
-Each week has **three sessions of roughly 30 minutes each**:
+Each week is built for about 20-30 minutes per session.
 
-1. **Guided Session 1** — You lead. A demonstration, model, or experiment introduces the week's system.
-2. **Guided Session 2** — You lead. A deeper activity traces flows, calculates loads, or diagnoses mismatches.
-3. **Independent Practice** — Student-driven. Observation, measurement, and a Systems Log entry.
+1. Guided Session 1 introduces the big idea through something the child can observe, touch, draw, sort, compare, or play.
+2. Guided Session 2 deepens the idea with one more model, game, or investigation.
+3. The Systems Log keeps a simple record of what the child noticed, drew, and still wonders.
 
-A comfortable pace is **two guided sessions plus one independent practice per week**. Some families do all three in one weekend; some spread them across the week.
+### Age Paths
 
-### How Much Prep Do You Need?
+Every week includes two clearly labeled paths.
 
-Minimal. Most activities use household items — a jar, some water, paper, a measuring cup. Each weekly page includes a Facilitator Snapshot at the top so you can review the key ideas in under five minutes. The lesson page *is* the guide.
+- **Short Path for Younger Learners** gives the warm, practical version for ages 8-9 or any short day.
+- **Extra Challenge for Older Learners** adds optional depth for ages 10-12, highly interested younger learners, or facilitators who want more science.
 
-### Adapting for Different Ages
+### Prep Load
 
-This is **one curriculum with built-in differentiation**, not two separate tracks. Every weekly lesson includes:
+Most weeks use ordinary materials: jars, paper, beans, boxes, cups, counters, pencils, or simple household objects. Each page includes a short snapshot so an adult can prepare quickly.
 
-- **For Ages 8–9:** A "Minimum Path" section with the core activity, a simpler diagram or log task, a few discussion questions, and guidance on what to skip.
-- **For Ages 10–12:** Push into deeper reasoning, more explicit measurement, and richer system diagrams.
+### Flexibility
 
-In mixed-age groups, run the main activity together and use the age-specific prompts to adjust the depth of your questions.
-
-### Flexibility Is Expected
-
-This is a guide, not a script. Skip an activity that does not fit your setting. Spend two weeks on the terrarium if your students are fascinated by it. Reorder the optional extension weeks. The structure is here to support you, not constrain you.
-
----
+Treat the course like a sturdy guide, not a script. Slow down when a child is curious. Skip a demo that does not fit your space. Spend more than one week on the terrarium if it becomes a favorite.
 
 ## The Big Idea
 
-Most conversations about the environment focus on **morality**:
+The planet is full of loops, flows, limits, and feedback patterns.
 
-- "We should protect nature."
-- "Pollution is bad."
-- "We are running out of time."
+Sunlight comes in, powers many processes, and leaves as heat. Water moves from place to place. Carbon moves through air, living things, soil, and oceans. Nitrogen moves too, but sometimes it needs bacteria to unlock it first. Human-made systems also move matter and energy, but many of them work in straight lines instead of loops.
 
-This curriculum takes a different approach. We teach students that:
+When a system gets stuck, overloaded, or leaves behind a growing pile, that is a clue. The course teaches children to read those clues.
 
-> **The environment is a system. Human industry is a system. The problems we observe are mismatches between how those two systems handle energy and matter.**
+## Five Core Mental Models
 
-A landfill is not "bad." It is an output that has nowhere useful to go because the system feeding it does not have a return path. A fishery does not "collapse because we are greedy." It collapses because total harvest exceeded the regeneration rate — the system was loaded past its carrying capacity.
+### 1. There Is No "Away"
 
-Once students see the world this way, the conversation shifts. Instead of asking "Who is to blame?" they start asking: "Where is the loop open? What output has no input? Where is the load exceeding capacity? What would a closed-loop redesign look like?"
-
-That shift — from moral framing to systems analysis — is the entire point of the course.
-
----
-
-## The Five Core Mental Models
-
-Throughout the curriculum, students develop five key ideas about how the planetary system actually works.
-
-### 1. There Is No "Away" (Conservation of Matter)
-
-Earth is a closed system for matter. When you throw something "away," it simply changes locations or states. Every atom of plastic, every milligram of fertilizer, every molecule of exhaust is still here — just moved. Students learn to trace the complete lifecycle of any object and identify where the matter actually ends up.
-
----
+Throwing something away only moves it somewhere else. Older learners can connect this to conservation of matter.
 
 ### 2. Energy Flows, Matter Cycles
 
-Sunlight enters the system, drives every process, and eventually radiates back to space as heat. That is a flow — one-way. Matter, by contrast, must continuously recycle: carbon, water, and nitrogen move from atmosphere to organism to soil to ocean and back again. Confusing these two — treating energy like it cycles, or matter like it flows away — is the source of many systems errors.
+Energy usually moves through a system. Matter usually gets reused in loops.
 
----
+### 3. Straight-Line Systems and Loop Systems
 
-### 3. The Linear vs. Circular API
+Nature often works in loops. Many human-made systems work in straight lines: take, make, use, and throw away. Older learners may see these called linear and circular system patterns.
 
-Natural systems run on a **circular API**: the output of one process is the input to another. A leaf falls, microbes decompose it, the nutrients feed the next tree. Most human industrial systems run on a **linear API**: extract raw material → manufacture → use → discard. The discard step has no return path, so outputs pile up as waste. Most environmental problems are this API mismatch.
+### 4. Limits Matter
 
----
+A pond, forest, fishery, or classroom bin can handle only so much before it gets strained. Older learners can call that limit carrying capacity.
 
-### 4. Carrying Capacity (System Load Limits)
+### 5. Small Changes Can Balance or Grow
 
-Every environment has a structural limit to the biological or industrial load it can support without degrading. Resource depletion, population crashes, and ecosystem collapses are all the same phenomenon: demand exceeded regenerative bandwidth. Students learn to calculate sustainable yield and identify when a system is being loaded past its limit.
-
----
-
-### 5. Feedback Loops (Balancing vs. Amplifying)
-
-A balancing loop pushes a system back toward steady state (predators eat extra prey, prey population stabilizes). An amplifying loop pushes the system further from steady state in a runaway cycle (ice melts, less sunlight reflects, more heat absorbed, more ice melts). Distinguishing which type of loop is active is the difference between "this will self-correct" and "this is approaching a tipping point."
-
----
+Some loops pull a system back toward steady behavior. Some loops make a change bigger. Older learners can call these balancing and amplifying feedback loops.
 
 ## Course at a Glance
 
-| Unit | Weeks | Focus |
-|------|-------|-------|
-| **The Planetary Engine** | 1–3 | Solar energy as the system's power source, thermodynamics, and a sealed micro-ecosystem |
-| **The Plumbing and the Supply Chain** | 4–7 | Water, carbon, and nitrogen cycles; tracing where matter actually goes |
-| **System Limits and Load Balancing** | 8–10 | Carrying capacity, population dynamics, and the resource depletion simulation |
-| **Re-Engineering the Interface** | 11–14 | Linear vs. circular APIs, circular design, right-to-repair, and a redesign exercise |
-| **The Redesign Project** | 15–18 | Identify a real open-loop process, engineer a closed-loop solution, stress-test it, and pitch it |
+| Unit | Weeks | Main idea |
+|---|---|---|
+| The Planetary Engine | 1-3 | Sunlight, energy changes, and a tiny world in a jar |
+| The Planet's Plumbing | 4-7 | Water, carbon, nitrogen, and tracing where matter goes |
+| Limits and Patterns | 8-10 | Load limits, population changes, and the shared fish pond game |
+| Better System Shapes | 11-14 | Straight lines, loops, repair, and one small redesign |
+| The Redesign Project | 15-18 | Turn one idea into a plan, test it, and share it with a real person |
 
-### Advanced Topics (Optional Extension)
+### Optional Extension Weeks
 
-Two bonus weeks introduce **amplifying feedback loops and tipping points** (early warning signals for runaway system states) and **geoengineering** (planetary-scale intervention proposals, analyzed purely as engineering tradeoffs).
+Two extra weeks sit outside the core 18-week path. They are best for older learners, highly interested students, or adult-led groups that want more challenge.
 
----
+- Optional Week 1: advanced feedback loops and tipping behavior
+- Optional Week 2: geoengineering as a systems tradeoff question
 
 ## The Systems Log
 
-The **Systems Log** is the backbone of this curriculum. Introduced in Week 1 and maintained through the 14-week core sequence and 4-week capstone, it serves as a running record of each student's observations and analysis.
+The Systems Log is a simple notebook or stack of pages used all year.
 
-The log captures:
+Every weekly page uses this kid-friendly structure:
 
-- **Observations** (what the student measured, drew, or noticed)
-- **System diagrams** (inputs, outputs, throughput, where matter goes)
-- **Calculations** (energy budgets, sustainable yields, throughput estimates)
-- **Diagnoses** (where loops are open, where load exceeds capacity)
-- **Predictions** (what the student expects the system to do next)
-- **Reflections** (what the data actually showed)
+```text
+What I noticed:
+What moved:
+Where it came from:
+Where it went:
+My drawing:
+One question I still have:
+```
 
-A simple notebook works. The discipline is in the regular use, not the format.
+Older learners can add measurements, short tables, and predictions, but the log starts with observation first.
 
----
+## What Each Weekly Page Includes
 
-## What Each Week Includes
+Each core week begins with the same child-first support structure:
 
-Each week contains **three short sessions** plus support sections to keep facilitation easy.
+- a friendly big question
+- a kid-facing hook
+- a short list of discoveries
+- a grown-up note with misconceptions to watch for
+- 3-5 core vocabulary words in kid language
+- a clearly marked Short Path for Younger Learners
+- an Extra Challenge for Older Learners
+- at least one Draw It prompt and Talk About It prompt
+- a Systems Log template
+- optional deeper science in an Engineer Corner or similar box
 
-### Guided Session 1 (≈30 minutes)
+## Materials You Will Reuse Often
 
-Introduces a system through a demonstration, model, or experiment. The focus is on *observing* the system before naming what is happening.
-
-### Guided Session 2 (≈30 minutes)
-
-Deepens the analysis with a more structured activity — tracing flows, calculating loads, or diagnosing mismatches.
-
-### Independent Practice (≈30 minutes)
-
-A student-driven session combining observation, measurement, and a **Systems Log** entry.
-
-Each week also includes a **Check for Understanding** (three mastery questions), a **Pause and Notice** reflection (engineering-framed, not moralistic), and a **Spiral Review** that connects to earlier weeks.
-
----
-
-## Getting Started
-
-:::tip Start Here
-Begin with **Week 1: How Solar Energy Drives Everything** and progress through each week sequentially. Each week builds on the previous one.
-:::
-
-### Materials
-
-Most activities use simple, accessible materials:
-
-- A clear jar with a lid, soil, small plants, water (for the terrarium in Week 3)
-- Paper, pencils, and a notebook for the Systems Log
-- Counters or tokens (for the depletion simulation in Week 10)
-- Occasional access to a thermometer, measuring cup, or kitchen scale
-
-No special software or expensive materials are required.
-
----
+- notebook or paper for the Systems Log
+- pencils, markers, tape, and scissors
+- cups, bowls, jars, and lids
+- beans, counters, or small tokens
+- simple household items for sorting and tracing
 
 ## The Goal
 
-By the end of the full sequence, students should be able to:
+By the end of the course, students should be able to say and show:
 
-- **Trace matter and energy** through a real-world system from input to output, including where the outputs actually go
-- **Identify whether a loop is open or closed**, and what would be required to close an open one
-- **Calculate or estimate carrying capacity** and recognize when a system is being loaded past its limit
-- **Distinguish balancing and amplifying feedback loops** and explain which is operating in a given situation
-- **Diagnose an API mismatch** between two systems and propose a redesign
-- **Build a small engineering proposal** — problem, current state, specifications, constraints, tradeoffs, expected outcome
-- **Use a Systems Log** as a thinking tool — not just a record, but a structured way to see patterns
+- where energy for a system comes from
+- where matter goes when it leaves one place
+- whether a process looks more like a loop or a straight line
+- what limit or bottleneck might be shaping the system
+- what small redesign could make the path work better
 
-The most important outcome is a shift in how students see the world:
-
-**Students should look at any object, product, or process and instinctively ask: where did the matter come from, where does it go, and is the loop closed?**
+The course is rigorous on purpose. It simply takes a child-friendly path to get there.

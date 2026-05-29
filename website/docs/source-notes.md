@@ -1,7 +1,7 @@
 ---
 sidebar_label: "Source Notes"
 title: "Source Notes"
-description: "Central source notes for data-rich lessons in the Environmental Systems Literacy curriculum."
+description: "Reference notes for the data-rich lessons in the Environmental Systems Literacy curriculum."
 ---
 
 # Source Notes
@@ -141,7 +141,7 @@ Facilitator notes:
 
 - NASA describes Mount Pinatubo as injecting about 15 million tons of sulfur dioxide into the stratosphere and contributing to about 1 degree F (0.6 degrees C) of global cooling for almost two years.
 - The National Academies source is useful for explaining why carbon dioxide removal is technically real but constrained by scale, cost, energy, and storage requirements.
-- Geoengineering figures change quickly and are easy to misuse. Keep the lesson centered on mechanism, tradeoffs, and failure modes rather than on debating a single number.
+- Geoengineering figures change quickly and are easy to misuse. Keep the lesson centered on mechanism, tradeoffs, and risks rather than on debating a single number.
 
 ---
 

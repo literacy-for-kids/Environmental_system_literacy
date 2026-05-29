@@ -1,364 +1,173 @@
 ---
 sidebar_position: 4
-sidebar_label: "Week 4: How the Planet Moves Water"
-title: "Week 4: How the Planet Moves Water"
-description: "Students map the physical infrastructure of the water cycle — how water is stored and moved across the planet."
+sidebar_label: "Week 4: The Adventure of a Water Drop"
+title: "Week 4: The Adventure of a Water Drop (How the Planet Moves Water)"
+description: "Children follow one water drop through evaporation, clouds, rain, rivers, and groundwater."
 ---
 
-# Week 4: How the Planet Moves Water
-*Unit 2: The Plumbing and the Supply Chain*
+# Week 4: The Adventure of a Water Drop (How the Planet Moves Water)
+*Unit 2: The Planet's Plumbing*
 
-The terrarium showed us a tiny closed water loop in action. This week we scale it up to the planet.
+## This Week's Big Question
 
-Earth has approximately the same amount of water it had four billion years ago. No new water has been arriving from space, and the water we have does not leave. Every drop of water you have ever drunk is somewhere in the system right now — possibly in a cloud, possibly in someone else, possibly frozen in a glacier.
+If one drop of water is in your cup today, where could it go next?
 
-The water cycle — also called the **hydrological cycle** — is the planet's plumbing. This week we map it.
+This week starts with a story about a single water drop. Children imagine it traveling up, down, underground, and back again until the water cycle feels like an adventure path instead of a vocabulary list.
 
----
+## Kid Version in One Sentence
 
-:::info Facilitator Snapshot
-- The big idea: water moves between reservoirs at very different speeds. The atmosphere holds very little water but cycles it fast. The ocean holds nearly all the water but cycles it slowly.
-- Students often think "the water cycle" = rain. It's much more than that. Groundwater, glaciers, and ocean storage are the dominant reservoirs.
-- Human disruption to the water cycle is real and worth discussing — but frame it as "we changed the routing of the existing flows" rather than "we polluted."
-- This is the first of three biogeochemical cycles (water, carbon, nitrogen) — the same engineering model applies to all three.
-:::
+Water keeps moving from place to place in a loop, even when we cannot see every step.
 
-:::tip Quick Navigation
-- [Facilitator Preparation](#facilitator-preparation)
-- [Guided Session 1: The Five Reservoirs](#guided-session-1)
-- [Guided Session 2: How We Re-Plumbed It](#guided-session-2)
-- [Independent Practice](#independent-practice)
+## You'll Discover
+
+- how a water drop can travel through five simple stops
+- how water can hide in clouds, soil, and underground places
+- why sink water and rainwater are part of bigger paths
+
+:::info Grown-up Note
+- Lead with the journey story before using formal cycle terms.
+- Use the no-stove demo as the default for younger learners. Warm water in a bowl plus a clear cover is enough.
+- Sessions are designed for about 20-30 minutes. Use the Short Path when you only have 15-20 minutes.
+
+**Common Kid Misconceptions**
+- Misconception: "Clouds are made of smoke or cottony air." Response: "Clouds are tiny water drops or ice crystals."
+- Misconception: "Groundwater is a giant underground river everywhere." Response: "Sometimes it moves in cracks, but often it is water hiding in tiny spaces in soil and rock."
+- Misconception: "Water disappears." Response: "It usually changed place or form."
 :::
 
 ## Week at a Glance
 
 | | |
 |---|---|
-| **Prep time** | ~15 minutes |
-| **Materials** | A clear pot or saucepan, ice cubes, water, a stove or hot plate (with adult supervision), paper and pencils, Systems Log |
-| **Key vocabulary** | hydrological cycle, evaporation, condensation, precipitation, transpiration, runoff, groundwater, reservoir |
-| **Difficulty** | Moderate |
-
-## Facilitator Preparation
-
-:::info Before You Begin
-- Gather a clear pot or saucepan, some ice cubes, and access to a stove or hot plate.
-- Have the Systems Log handy with this week's terrarium observations.
-- Print or sketch a simple world map (optional but helpful) for marking major water reservoirs.
-:::
-
-:::tip Facilitation Mindset
-The most surprising fact for students: roughly 97% of Earth's water is in the oceans (salt water). Of the remaining 3% (fresh water), most is locked up in glaciers and groundwater. The lakes and rivers you can see make up a tiny fraction of the total.
-
-Lead with that surprise, then unpack the cycle.
-:::
-
-## Minimum Path for Ages 8–9
-
-- Core activity: Watch a simple evaporation-condensation demo using a warm-water container and a cool lid, or use the no-stove window version if needed.
-- Core diagram or log task: Draw one loop with ocean, cloud, rain, river, and ocean again.
-- Discussion questions:
-	1. Where is most of Earth's water?
-	2. How does water get from the ground back into the sky?
-	3. Where does sink or shower water go after it leaves your house or school?
-- Success looks like: The learner can describe a full water loop using evaporation, clouds, rain, and runoff.
-- Skip for younger learners: exact reservoir percentages, residence-time figures, detailed aquifer discussion, and the more advanced rerouting examples.
-
-:::info For Ages 10–12
-- Introduce reservoir percentages: ~97.5% ocean (salt), ~1.7% glaciers/ice caps, ~0.75% groundwater, &lt;0.05% lakes and rivers, &lt;0.001% atmosphere.
-- Discuss **residence time**: how long water typically stays in each reservoir. Atmosphere ~9 days. Rivers ~weeks to months. Lakes ~years. Groundwater ~hundreds to tens of thousands of years (depending on depth). Deep ocean ~thousands of years. Glaciers ~tens of thousands of years.
-- Discuss why "running out of water" is really "moving water faster than it can refill" or "moving it to where it's hard to use."
-:::
-
-
-## Safety and Care Notes
-
-- Keep an adult in charge of any stove, hot plate, kettle, or heated water.
-- Stay back from steam and hot lids; steam can burn skin quickly.
-- Let the pot, plate, or lid cool before moving it.
-- If your setting is not safe for heat, use a no-stove version with a warm bowl, clear cover, and sunlight instead.
-
----
-
-## Guided Session 1
-### The Five Reservoirs
-#### Learning Goal
-By the end of this session, the student can:
-
-- name the main places where water is stored on Earth
-- describe how water moves between those reservoirs
-- understand that not all reservoirs are the same size or move at the same speed
-
----
-
-#### Activities
-
-**1. Where Is All the Water?**
-
-Ask the student:
-
-> "If I asked you to point to where most of the water on Earth is — what would you say?"
-
-Most students say "the ocean." Correct. Now ask: what fraction is in the ocean?
-
-The numbers (round figures):
-
-| Reservoir | Approximate share |
-|-----------|-------------------|
-| **Oceans (salt water)** | ~97% |
-| **Glaciers and ice caps** | ~2% |
-| **Groundwater (aquifers)** | ~1% |
-| **Lakes and rivers** | ~0.01% |
-| **Atmosphere (clouds, vapor)** | ~0.001% |
-
-Discussion:
-
-- The amount of water visible to us at any time (lakes, rivers, rain) is a tiny slice of the total.
-- Almost all freshwater is either frozen (glaciers) or underground (aquifers).
-- Yet the atmosphere — which holds the smallest amount — drives the visible cycle.
-
----
-
-**2. The Stovetop Cycle (with adult supervision)**
-
-Put a small amount of water in a clear pot or saucepan. Heat it on the stove. As soon as you see steam rising, place a plate or lid over the pot — and put some ice cubes on top of the lid.
-
-Observe:
-
-- Steam rises from the water (**evaporation**).
-- Steam hits the cold underside of the lid and turns back to water droplets (**condensation**).
-- Droplets accumulate and drip back down (**precipitation**).
-
-> "What you just watched is the water cycle, sped up. The same thing is happening on the planet, but driven by the sun instead of a stove, and over hundreds of thousands of square miles instead of a pot."
-
----
-
-**3. Map the Big Cycle**
-
-Draw the full water cycle on a piece of paper. Include:
-
-- **Evaporation:** sunlight heats ocean and lake surfaces, water turns to vapor and rises.
-- **Transpiration:** plants pull water from the soil and release it as vapor through their leaves. (Together with evaporation, this is sometimes called *evapotranspiration*.)
-- **Condensation:** vapor in the cool upper atmosphere forms tiny droplets — clouds.
-- **Precipitation:** droplets in clouds combine, get heavy enough to fall — rain, snow, hail.
-- **Runoff:** water flows across the surface into streams, rivers, and eventually back to the ocean.
-- **Infiltration:** some water soaks into the soil and recharges groundwater (aquifers).
-- **Groundwater flow:** underground water moves slowly toward springs, wells, and the ocean.
-
-Discussion: where is the *power* for this whole system coming from? (Sunlight. Same as everything else.)
-
----
-
-## Guided Session 2
-### How We Re-Plumbed It
-#### Learning Goal
-By the end of this session, the student can:
-
-- describe how human infrastructure has changed the routing of natural water flows
-- distinguish between "using" water and "consuming" water (it almost never goes away — it gets moved or contaminated)
-- identify three real-world places where the water cycle has been heavily modified
-
----
-
-#### Activities
-
-**1. The "Used" Water Trick Question**
-
-Ask:
-
-> "When you take a shower, where does the water go after it goes down the drain?"
-
-Walk through the path:
-
-- Drain → home pipes → sewer → treatment plant → river/ocean.
-- Eventually that water evaporates, joins a cloud, rains down somewhere.
-- The water is not destroyed. It just moves and (depending on contamination) may need to be cleaned before it can be used again.
-
-Now ask:
-
-> "What about water used to grow food?"
-
-- Soaks into soil, taken up by plant roots, transpired out the leaves, returns to atmosphere.
-
-The point: **water is rarely 'used up.' It is moved, changed in quality, or temporarily locked up — but the H₂O molecules persist.**
-
----
-
-**2. The Major Reroutings**
-
-Walk through three big ways humans have changed the natural water cycle:
-
-**Dams and reservoirs.** A dam holds water in one place that would otherwise flow downstream. This changes:
-- Where water is available (above the dam, more; below the dam, less).
-- How fast the river flows.
-- How much sediment moves (sediment piles up behind the dam).
-- The local microclimate (large reservoirs increase local evaporation).
-
-**Irrigation.** Water pulled out of rivers or pumped out of aquifers is moved to fields. Some evaporates, some transpires, some soaks back into the soil. Often this water is moved across watersheds — out of one drainage basin and into another.
-
-**Aquifer depletion.** Some aquifers (underground reservoirs) hold water that took thousands or millions of years to accumulate. When we pump water out faster than rain can recharge it, the aquifer drops. The famous **Ogallala Aquifer** under the U.S. Great Plains is being drawn down much faster than it refills.
-
-**Paved surfaces (urbanization).** When natural soil is covered by roads and rooftops, rain can't soak in. Instead it runs off as quickly as possible into storm drains. The result: more flooding, less groundwater recharge.
-
-For each of these, the framing is the same: **we changed the routing of an existing flow, and the system rebalanced in a way that has consequences for everyone downstream.**
-
----
-
-**3. The "Where Did It Go?" Game**
-
-Trace a specific drop of water through different scenarios:
-
-> "A drop of rain falls on a forest. What are all the possible places it might be in a year?"
-
-Possible paths:
-- Soaks into the soil, gets pulled up by a tree, transpired into the atmosphere, falls as rain somewhere else.
-- Soaks deeper, becomes groundwater for centuries.
-- Runs off into a stream, into a river, into the ocean.
-- Evaporates directly from the soil before doing anything.
-
-> "Same question — but now the rain falls on a parking lot."
-
-- Runs off immediately into a storm drain.
-- Quickly into a stream or river.
-- Picks up oil, brake dust, salt, fertilizer as it goes.
-- Reaches the ocean carrying contaminants.
-
-The cycle still works, but the routing — and the water quality — is different.
-
----
-
-## Independent Practice
-
-### Goal
-
-Map water flows in your immediate environment and continue terrarium observations.
-
-### Activities
-
-**1. The Local Water Audit**
-
-Walk around your home, school, or neighborhood and note every place water enters or leaves the system:
-
-| Where water enters | Where water leaves |
+| Session length | About 20-30 minutes |
+| Prep time | About 10 minutes |
+| Materials | Bowl or cup, warm water, clear plate or plastic wrap, ice if available, paper, pencil, Systems Log |
+| Safety | Adult handles hot water if used; wipe spills quickly |
+| Core vocabulary | water vapor, cloud, rain, storage place, groundwater |
+| Older learner words | evaporation, condensation, precipitation, reservoir, aquifer |
+
+## Core Vocabulary
+
+| Word | Kid-friendly meaning |
 |---|---|
-| Rain on the yard | Storm drain on the street |
-| Sink faucet | Sink drain |
-| Garden hose | Lawn sprinkler runoff |
-| Shower | Shower drain |
-| ... | ... |
+| water vapor | Water in the air that we usually cannot see |
+| cloud | Tiny water drops or ice floating in the sky |
+| rain | Water falling back down from clouds |
+| storage place | A place water can stay for a while |
+| groundwater | Water hiding underground |
 
-After listing, ask: how much of this water was just being **rerouted** as it passed through your house? (Almost all of it.)
+## Short Path for Younger Learners
 
----
+- Do the bowl-and-cover water demo.
+- Draw a five-stop water loop.
+- Pretend to be one water drop and tell its journey aloud.
+- Fill in the Systems Log with a drawing and one question.
 
-**2. Find Out Where Your Water Comes From**
+Success looks like: the child can describe water moving through several places and coming back around.
 
-Ask a parent or look up: where does your tap water come from? Possible answers:
+## Extra Challenge for Older Learners
 
-- A reservoir behind a dam
-- A river upstream
-- An aquifer (groundwater)
-- A combination
+- Compare water stored in lakes, clouds, soil, and groundwater.
+- Investigate where local sink water goes next.
+- Notice that some storage places hold water for a short time and some hold it much longer.
 
-Then ask: where does it go after you use it? Most likely to a wastewater treatment plant, then to a river, then eventually the ocean.
+## Read-Aloud Opening
 
-**Bonus:** Find out (if possible) the name of the watershed you live in. A watershed is the area of land from which all the rain eventually drains to one common point — like a river or lake.
+"Imagine one tiny drop of water sitting in your cup. By next week it could be in the air, in a cloud, in a puddle, in the ground, or back in a river. This week we are following that drop wherever it goes."
 
----
+## The Five-Stop Loop
 
-**3. Terrarium Check**
+`Ocean or lake -> water vapor -> cloud -> rain or snow -> river or ground -> ocean or lake`
 
-This is week 1 of terrarium observation. Open the Systems Log and add today's entry:
+## Guided Session 1: Make a Cloud on a Bowl
 
-- Day count: __
-- Condensation on the lid? (How much?)
-- Soil moisture: wet / damp / dry
-- Plants: thriving / steady / wilting
-- Anything new or surprising
+**Time:** 20-25 minutes
 
-### Systems Log
+**Materials:** bowl, warm water, clear cover or plate, ice if available
 
-> **Today's System:** The water cycle
->
-> **Sketch:** [Draw the full cycle with all five reservoirs and the arrows between them]
->
-> **My local water source:** ____
->
-> **Where my used water goes:** ____
->
-> **Terrarium update:** ____
+**Safety note:** Use warm water, not boiling water, for the child-facing path.
 
-**Sentence starters for younger learners:**
-- "Water moves from ___ to ___."
-- "The water in my house comes from ___ and goes to ___."
+**Setup:** Pour warm water into the bowl. Cover it with a clear plate, plastic wrap, or lid. Put ice on top if you have it.
 
-### Reflection Questions
+**Activity steps:**
 
-- A glass of water on your table — where might that water have been 100 years ago?
-- If a river runs through a city, why is the water at the downstream end usually less clean than at the upstream end?
-- Glaciers store ice that took thousands of years to build up. If they melt, where does that water go? Why does this matter for sea level?
+1. Look at the water in the bowl.
+2. Wait and watch the inside of the cover.
+3. Notice the water drops forming.
+4. Tap the cover lightly and watch the drops fall.
 
+**What to ask:**
 
-## Local Investigation Prompt
+- Where did the water on the cover come from?
+- What changed between the bowl and the cover?
+- How is this a tiny model of clouds and rain?
 
-Trace one local water path: roof to gutter, faucet to drain, storm drain to creek, or puddle to dry pavement. Where does the water likely go next?
+**Draw It:** Draw the bowl, the cover, the drops, and arrows showing where the water moved.
 
----
+**Talk About It:**
 
-## Check for Understanding
+- Where have you seen water drops form in real life?
+- Why do you think water moves into the air?
+- What would happen if the air cooled down again?
 
-After this week, check whether the learner can:
+**What success looks like:** The child can connect the bowl demo to clouds and rain.
 
-1. **Name the reservoirs:** "Where on Earth is water stored?" (Looking for: oceans, glaciers, groundwater, lakes/rivers, atmosphere — any three of these.)
-2. **Trace one drop:** "Trace a drop of water from the ocean back to the ocean, going through at least three steps." (Looking for: evaporation → cloud → rain → river/ground → ocean.)
-3. **Identify a human rerouting:** "Name one way humans have changed how water naturally flows." (Looking for: dams, irrigation, paving, pumping groundwater.)
+## Guided Session 2: Be the Water Drop
 
-If the learner can do at least 2 of these, they're ready for Week 5.
+**Time:** 20-30 minutes
 
----
+**Materials:** paper, markers, Systems Log
 
-## Pause and Notice
+**Setup:** Draw five big circles or boxes on paper for the five water stops.
 
-:::note What Matters Here
-After this week, ask:
+**Activity steps:**
 
-> "Every glass of water you've ever had — that water is older than you, older than humans, possibly older than Earth in some cases. We're not making water. We're borrowing it."
+1. Start with the water drop in one place, such as a cup, puddle, lake, or ocean.
+2. Move it through the five-stop loop.
+3. Add one side trip, such as groundwater, snow, or a plant.
+4. Ask where local sink water might go after the drain.
 
-This isn't a moral observation. It's a structural one. **The system is closed for matter.** Once you see that, "water management" stops being about producing more water (you can't) and starts being about routing the existing water more carefully.
+**What to ask:**
 
-**This week's takeaway:** The water cycle is the planet's plumbing. We can't make new water. We can only redirect the existing flow.
-:::
+- Which stop do you think a water drop visits most often?
+- Where can water hide for a while?
+- What path might sink water take after it leaves your house or school?
 
+**Draw It:** Draw yourself as a water drop traveling through five places.
 
-## Source Notes
+**Talk About It:**
 
-For the reservoir breakdowns and water-distribution figures used in this week, see the central [Source Notes](./source-notes.md). If you refresh the numbers before teaching, keep the lesson language rounded and age-appropriate.
+- Which water places can you see easily, and which are hidden?
+- Why is groundwater important even when we cannot see it?
+- If all water moved too fast, what problems could that cause?
 
----
+**What success looks like:** The child can tell a short water-drop story in the correct general order.
 
-## Spiral Review
+## Systems Log
 
-:::tip Connecting to Earlier Weeks
-- **From Week 1:** Evaporation is powered by sunlight. The whole water cycle's energy source is the sun.
-- **From Week 2:** As water vapor rises and cools, the heat that was used to evaporate it is released back to the atmosphere. Energy is conserved — it changed form, but it's still in the system somewhere.
-- **From Week 3:** The terrarium runs a miniature water cycle. The same physical process you just described for the planet is happening on your countertop.
+Use this simple entry:
 
-Ask: "Is your terrarium losing water through the lid? How would you know?"
-:::
+```text
+What I noticed:
+What moved:
+Where it came from:
+Where it went:
+My drawing:
+One question I still have:
+```
 
----
+Helpful prompts for this week:
 
+- What I noticed: "Drops formed on..."
+- What moved: "The water moved from... to ..."
+- Where it went: "Next the drop could go to..."
+- My drawing: a five-stop loop
 
-:::tip Extend (Ages 10–12)
-Calculate the **residence time** of water in different reservoirs. If the atmosphere holds 12,900 km³ of water and the global precipitation rate is 505,000 km³ per year, what's the average time a water molecule spends in the atmosphere? (~9 days.) Now do the same for the ocean (~1.36 billion km³, with about 425,000 km³ evaporating per year). Why such different residence times?
-:::
+## Engineer Corner
 
-:::tip Vocabulary This Week
-**Hydrological cycle** • **Evaporation** • **Condensation** • **Precipitation** • **Transpiration** • **Runoff** • **Groundwater** • **Reservoir**
-:::
+Older learners and facilitators can park the formal details here.
 
-## Preview of Next Week
-
-Next week we follow another atom: **carbon**. Where it's stored, how it moves, and why pulling carbon out of the ground at high speed is the central engineering issue of our time.
-
-
+- Reservoir is the formal word for a storage place.
+- Residence time means how long water tends to stay in one place.
+- Aquifer is a groundwater storage zone in rock or sediment.
+- Exact percentages for oceans, ice, groundwater, lakes, and the atmosphere belong here instead of the main path.

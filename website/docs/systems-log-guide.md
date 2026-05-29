@@ -1,213 +1,159 @@
 ---
 sidebar_label: "Systems Log Guide"
 title: "Systems Log Guide"
-description: "How to set up, use, and assess the Systems Log used across the full course sequence and capstone."
+description: "How to keep the Systems Log simple, useful, and child-friendly across the full course."
 ---
 
 # Systems Log Guide
 
-The Systems Log is the course's running record of observation, modeling, measurement, and revision. It is not busywork. It is where students learn to think in systems instead of only talking about systems.
+The Systems Log is the child's running record of noticing, drawing, predicting, and revising. It should feel useful, not heavy.
 
----
+A simple notebook, stapled packet, or folder of pages is enough.
 
-## Purpose
+## The Main Template
 
-Use the Systems Log to help students:
-
-- notice what changed
-- draw what is moving
-- attach numbers when numbers matter
-- compare a prediction with what actually happened
-- revise a model after new evidence shows up
-
-Across the full sequence, the log becomes evidence of growth. The earliest entries are often simple and local. By the capstone, the same student should be drawing flows, naming constraints, and proposing redesigns.
-
----
-
-## Recommended Format
-
-Any stable format works:
-
-- one bound notebook
-- a folder of printed sheets
-- a clipped stack of weekly templates
-- a digital document with one page per week
-
-Paper works especially well because students can sketch quickly.
-
----
-
-## Suggested Standing Structure
-
-You do not need every section every week, but this structure works well:
-
-| Section | What goes there |
-|---|---|
-| Date and week | The current lesson or observation date |
-| System | The system being studied that day |
-| Observation | What the student saw, noticed, measured, or counted |
-| Diagram | A sketch, box-and-arrow model, table, or loop diagram |
-| Prediction | What the student expects to happen next |
-| Result | What actually happened |
-| Revision | What changed in the student's understanding |
-
----
-
-## Weekly Entry Template
-
-Use this simple base template all year:
+Use this simple template all year:
 
 ```text
-SYSTEMS LOG ENTRY
-
-Date:
-Week:
-Today's system:
-
-What I observed:
-
-What is moving through this system:
-
-My diagram or sketch:
-
-My prediction:
-
-What actually happened:
-
-What I would change or test next:
+What I noticed:
+What moved:
+Where it came from:
+Where it went:
+My drawing:
+One question I still have:
 ```
 
----
+This is the base format that appears across the weekly pages.
 
-## Example Entry: Younger Learner Format
+## Why This Works
 
-```text
-Date: Week 3, Day 4
-Today's system: My terrarium
+The log helps children:
 
-I saw water drops on the lid.
-The soil looked darker than yesterday.
-One plant leaf touched the glass.
+- slow down and notice details
+- draw flows instead of only talking about them
+- connect predictions with results
+- keep a record of how their thinking changes
+- return to earlier pages and see growth over time
 
-Drawing: jar, soil, plants, drops on top, arrows down
+## Keep It Child-Friendly
 
-My prediction:
-The drops will fall back into the dirt.
+A good Systems Log page does not need long writing.
 
-What actually happened:
-Some drops slid down the glass by evening.
-```
+Good entries can include:
 
-What makes this a good entry:
+- arrows
+- boxes or circles
+- a labeled sketch
+- one or two short sentences
+- a count, estimate, or quick table when it helps
+- a question that still feels alive
 
-- it names visible evidence
-- it includes a simple arrow-based model
-- it compares prediction and result
+Accept drawing-first entries, dictated answers, or shared writing when needed.
 
----
+## Younger Learner Tips
 
-## Example Entry: Older Learner Format
-
-```text
-Date: Week 10, Round 2 of Resource Pool Game
-Today's system: Shared fishery model
-
-Observation:
-Starting pool = 20 tokens.
-Total harvest in round 1 = 8.
-Remaining pool = 12.
-Regeneration at 25% = 3.
-Next-round pool = 15.
-
-Diagram:
-pool -> harvest -> smaller pool -> regeneration -> next pool
-
-Prediction:
-If we keep taking 8 total per round, the pool will collapse within a few rounds because regeneration shrinks as the pool shrinks.
-
-What actually happened:
-Round 2 total harvest was 7. Pool dropped again.
-
-Revision:
-I first thought any amount under 10 was safe. It is not. The safe amount depends on the pool size.
-```
-
----
-
-## Using Drawings For Ages 8-9
-
-For younger learners, drawings are often the best evidence.
-
-Good younger-learner log work may include:
-
-- arrows showing direction
-- circles or boxes around reservoirs
-- one sentence under a drawing
-- a count of drops, tokens, or objects
-- labels such as "in," "out," "up," "down," "wet," or "dry"
-
-Accept dictated answers if needed.
+For ages 8-9, drawings often carry the thinking.
 
 Helpful sentence starters:
 
-- "I noticed..."
-- "The system changed when..."
-- "This goes from ___ to ___."
-- "I think next..."
+- I noticed...
+- It moved from... to...
+- I think next...
+- The system changed when...
 
----
+Strong younger-learner entries often include:
 
-## Using Measurements For Ages 10-12
+- arrows showing direction
+- labels like in, out, wet, dry, up, or down
+- one comparison, such as before and after
+- a question at the end
 
-For older learners, the log should gradually include more measurement and estimation.
+## Older Learner Tips
 
-Common upgrades:
+Older learners can gradually add more evidence without losing the simple structure.
 
-- dates and times
-- weights or counts
-- approximate percentages
-- rates per day, round, or week
-- comparisons between two setups
-- simple tables and charts
+Useful upgrades:
 
-The purpose is not precision for its own sake. The purpose is to connect claims to evidence.
+- times or dates
+- counts or approximate weights
+- quick comparison tables
+- simple before-and-after estimates
+- short notes about tradeoffs, limits, or patterns
 
----
+The goal is still clarity, not fancy formatting.
 
-## What Good Log Growth Looks Like Across The Course
+## Example: Week 3 Terrarium Entry
+
+```text
+What I noticed:
+Water drops formed on the lid.
+
+What moved:
+Water moved from the soil and plants to the glass.
+
+Where it came from:
+The water started inside the jar.
+
+Where it went:
+Some of it slid back down.
+
+My drawing:
+Jar with drops on top and arrows back to the soil.
+
+One question I still have:
+Will there be more drops tomorrow or fewer?
+```
+
+## Example: Week 10 Fish Pond Entry
+
+```text
+What I noticed:
+The pond got smaller fast when we took too many fish early.
+
+What moved:
+Fish moved from the pond to the players.
+
+Where it came from:
+The fish started in the shared pond.
+
+Where it went:
+The pond had too few left to grow back well.
+
+My drawing:
+Start pond and end pond with round numbers.
+
+One question I still have:
+Which rule would help the pond most next time?
+```
+
+## What Growth Looks Like Across the Course
 
 | Early weeks | Middle weeks | Capstone weeks |
 |---|---|---|
-| observation and drawing | diagram plus explanation | diagnosis, specification, and redesign |
-| simple labels | labeled flows and reservoirs | measurable outcomes and tradeoffs |
-| short predictions | predictions plus evidence | version 2.0 revisions |
-
----
+| noticing and drawing | tracing paths and loops | planning, testing, and revising |
+| simple labels | clearer arrows and categories | tradeoffs and version 2.0 thinking |
+| short predictions | simple cause-and-effect explanations | stronger redesign reasoning |
 
 ## Facilitator Habits That Help
 
-- Ask to see the log during the lesson, not only after it.
-- Model one quick entry yourself at least once.
-- Accept unfinished drawings that still show the system correctly.
-- Return to old pages and compare them with newer ones.
-- Use the log as evidence in conferences, not just as storage.
+- Ask to see the log during the lesson, not only afterward.
+- Model one quick entry yourself from time to time.
+- Accept unfinished drawings if the system idea is clear.
+- Revisit older pages and compare them with newer ones.
+- Keep the log useful. Do not turn it into copying practice.
 
----
-
-## Common Problems And Fixes
+## Common Problems and Quick Fixes
 
 | Problem | Quick fix |
 |---|---|
-| The student writes only copied definitions | Ask for one concrete example from the room or house |
-| The student avoids drawing | Start the page with boxes and arrows only |
-| The log becomes too wordy | Add a limit: one table, one sketch, three sentences |
-| The student records numbers without meaning | Ask, "What does that number tell you about the system?" |
-| Younger learner resists writing | Accept dictated notes and drawing-first entries |
-
----
+| The child freezes when asked to write | Start with the drawing box first |
+| The child copies vocabulary only | Ask for one real example from the room or house |
+| The page gets too wordy | Limit it to one sketch and three short sentences |
+| The numbers have no meaning | Ask, "What does that number tell you?" |
+| The child resists every week | Let them pick marker color, format, or which prompt to answer first |
 
 ## Related Pages
 
-- [Assessment and Rubrics](./assessment-and-rubrics.md)
 - [Printable Templates](./printable-templates.md)
+- [Assessment and Rubrics](./assessment-and-rubrics.md)
 - [Example Student Work](./example-student-work.md)

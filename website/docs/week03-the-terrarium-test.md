@@ -1,378 +1,194 @@
 ---
 sidebar_position: 3
-sidebar_label: "Week 3: Building a Closed-Loop Micro-Ecosystem"
-title: "Week 3: Building a Closed-Loop Micro-Ecosystem"
-description: "Students build a sealed micro-ecosystem and observe how a closed physical system balances its internal water and carbon cycles."
+sidebar_label: "Week 3: Tiny World in a Jar"
+title: "Week 3: Build a Tiny World in a Jar (A Closed-Loop Micro-Ecosystem)"
+description: "Children build a terrarium and watch a tiny world reuse water and materials inside a jar."
 ---
 
-# Week 3: Building a Closed-Loop Micro-Ecosystem
+# Week 3: Build a Tiny World in a Jar (A Closed-Loop Micro-Ecosystem)
 *Unit 1: The Planetary Engine*
 
-This week we build something we will be observing for the rest of the course: a **sealed terrarium**. It is a miniature Earth — a glass jar with soil, plants, and water, sealed off from the outside.
+## This Week's Big Question
 
-The terrarium demonstrates the central distinction we set up over the last two weeks:
+Can a tiny world keep going when most of its stuff stays inside?
 
-- **Matter is closed.** Once you seal the lid, no new water, soil, or air can come in or out. The water inside has to cycle.
-- **Energy is open.** Sunlight comes in through the glass. Heat radiates back out through the glass.
+This week feels magical on purpose. Children build a small world in a jar, watch water move around inside it, and begin to see what it means for matter to stay in a loop while sunlight still comes in.
 
-This is the same architecture as Earth itself. Earth is closed for matter (atoms do not leave the planet, with extremely tiny exceptions) and open for energy (solar in, heat out). The terrarium is a working scale model.
+## Kid Version in One Sentence
 
-Once built, the terrarium becomes a recurring observation throughout the curriculum. Each week from here on, students will check in on it and log what they see.
+In a terrarium, most of the stuff stays inside, but sunlight can still come in and keep the tiny world going.
 
----
+## You'll Discover
 
-:::info Facilitator Snapshot
-- This is the curriculum's longest-running experiment. Build it carefully — you will be observing it for 4–6 weeks.
-- The most common failure modes are (1) too much direct sunlight (thermal overload), (2) too much water (everything rots), and (3) not enough water (everything dries out and dies).
-- Indirect sunlight near a window is ideal. Avoid direct sun, especially through south-facing windows on warm days.
-- If something dies, that is also a valid observation — log it and discuss the failure mode.
-:::
+- how to build a simple terrarium layer by layer
+- what each layer does in kid-friendly terms
+- how water can travel inside a jar without leaving it
 
-:::tip Quick Navigation
-- [Facilitator Preparation](#facilitator-preparation)
-- [Guided Session 1: Build the Terrarium](#guided-session-1)
-- [Guided Session 2: What Cycles Inside](#guided-session-2)
-- [Independent Practice](#independent-practice)
+:::info Grown-up Note
+- Lead with wonder, not architecture vocabulary. "Tiny world" should come before "closed system."
+- Keep the main sentence simple: stuff stays in, sunlight comes in.
+- Sessions are designed for about 20-30 minutes. Use the Short Path when you only have 15-20 minutes.
+
+**Common Kid Misconceptions**
+- Misconception: "A sealed jar means nothing moves." Response: "Things can still move inside. Water, air, and plant growth keep changing places."
+- Misconception: "The jar makes its own energy." Response: "No. Light still comes from outside."
+- Misconception: "We should put bugs, worms, or wild animals inside and seal them up." Response: "Plants and soil are enough for this lesson. Do not seal wild animals in the jar."
 :::
 
 ## Week at a Glance
 
 | | |
 |---|---|
-| **Prep time** | ~30 minutes for materials gathering |
-| **Materials** | See detailed list below — most importantly a large clear jar with a lid |
-| **Key vocabulary** | closed loop, open loop, ecosystem, water cycle, condensation, evapotranspiration |
-| **Difficulty** | Hands-on (moderate) |
+| Session length | About 20-30 minutes |
+| Prep time | About 15 minutes |
+| Materials | Clear jar with lid, small rocks, charcoal if available, soil, small plants or moss, spray bottle, spoon, paper, Systems Log |
+| Safety | Use clean materials; wash hands after handling soil; do not seal wild animals in the jar |
+| Core vocabulary | terrarium, loop, soil, condensation, indirect light |
+| Older learner words | closed for matter, open for energy, decomposition, oxygen, carbon dioxide |
 
-## Materials Needed
+## Core Vocabulary
 
-This is a hands-on build. Gather:
+| Word | Kid-friendly meaning |
+|---|---|
+| terrarium | A tiny plant world in a clear container |
+| loop | A path that comes back around instead of stopping |
+| soil | Plant home where roots grow |
+| condensation | Water drops forming on a cool surface |
+| indirect light | Bright light nearby, but not harsh direct sun |
 
-- **A large clear container with a lid.** A 1-quart (or larger) mason jar works well. Bigger is better and more forgiving. The lid needs to seal but does not need to be perfectly airtight.
-- **Small rocks or pebbles** — about 1 inch deep at the bottom of the jar. These form the drainage layer.
-- **Activated charcoal** (optional but helpful) — a thin layer on top of the rocks. Reduces odors and keeps things fresher. Available at pet stores or garden centers.
-- **Potting soil** — enough for a 2–3 inch layer above the rocks/charcoal.
-- **Small plants** — moss, ferns, small houseplant cuttings, or seedlings. Moss is the easiest and most forgiving. Pick plants that like humidity (tropical plants generally work well; desert plants do not).
-- **A spray bottle or small cup of water.**
-- **Plastic wrap and a rubber band** can substitute for a lid if needed.
+## Short Path for Younger Learners
 
-## Facilitator Preparation
+- Build the jar using the simple checklist.
+- Make a Day 1 observation card.
+- Draw where the water is on the first day.
+- Revisit next time and compare what changed.
 
-:::info Before You Begin
-- Gather all materials before the session — this is a build, and stopping mid-build to find supplies is frustrating.
-- Decide where the terrarium will live. It needs **indirect** sunlight — near a window but not in direct sunbeams. Direct sun overheats the system and cooks the plants.
-- Have a small towel or newspaper down for soil spills.
-- Pull out the Systems Log from previous weeks.
-:::
+Success looks like: the child can explain that the terrarium keeps reusing water inside the jar.
 
-:::tip Facilitation Mindset
-The build itself is the lesson. As students layer the rocks, the charcoal, and the soil, talk through what each layer does:
+## Extra Challenge for Older Learners
 
-- Rocks: drainage so roots don't sit in water.
-- Charcoal: filters odors and inhibits mold.
-- Soil: where the plants live.
-- Plants: convert light to sugar (Week 1 callback).
-- Water: cycles. We'll see this in action.
+- Explain why the terrarium is mostly closed for matter but open for energy.
+- Track how often you see condensation and when it disappears.
+- Compare two jars with different light levels or moisture levels.
 
-Once the lid is on, the system has to balance itself. That self-balancing is the entire point.
-:::
+## Read-Aloud Opening
 
-## Minimum Path for Ages 8–9
+"Today we are building a tiny world in a jar. We are going to stack a few simple layers, add plants, and then watch what happens. The exciting part is that most of the water and matter stay inside and keep moving around instead of leaving."
 
-- Core activity: Build the terrarium and place it in its long-term location.
-- Core diagram or log task: Draw the jar and add arrows for water going up to the glass and back down to the soil.
-- Discussion questions:
-      1. Where do the drops on the glass come from?
-      2. Why does the water not disappear?
-      3. What might happen if the jar sits in direct sun all afternoon?
-- Success looks like: The learner can explain that the same water keeps cycling inside a sealed system.
-- Skip for younger learners: the detailed carbon-and-oxygen explanation, activated-charcoal discussion, and exact measurement upgrades.
+## Picture Checklist
 
-:::info For Ages 10–12
-- Measure the exact amount of water added at setup. This is the system's total water budget.
-- Use a thermometer to log temperature at the same time each day, alongside humidity observations.
-- Quantify condensation: count visible droplets, measure approximate volume pooled on the inside of the lid.
-- Discuss what would happen if you added a small animal (a roly-poly, a worm). What would it eat? What would eat its waste? Why a *very* small terrarium can sustain small invertebrates almost indefinitely.
-:::
+`Rocks -> charcoal -> soil -> plants -> mist -> lid -> indirect light`
 
+## What Each Layer Does
 
-## Safety and Care Notes
+- **Rocks:** a tiny basement where extra water can collect
+- **Charcoal:** helps keep the jar fresher
+- **Soil:** the plant home
+- **Plants:** tiny sugar factories using sunlight
+- **Mist:** gives the tiny world a starting drink
+- **Lid:** helps keep the water inside
+- **Indirect light:** gives energy without cooking the plants
 
-- Use a sturdy jar, and let an adult handle heavy glass containers or tight lids.
-- Wash hands after handling soil, plants, or any insects that came in with the soil.
-- If mold becomes heavy or anyone in the group has allergies or asthma symptoms, stop handling the jar directly and ask an adult to reset or discard it safely.
-- Do not place the terrarium in direct sunlight; the jar can overheat quickly.
-- Do not seal wild animals, batteries, or food scraps into the jar.
+## Guided Session 1: Build the Jar
 
----
+**Time:** 25-30 minutes
 
-## Guided Session 1
-### Build the Terrarium
-#### Learning Goal
-By the end of this session, the student can:
+**Materials:** jar, rocks, charcoal if available, soil, plants or moss, spoon, spray bottle
 
-- assemble a layered sealed terrarium
-- describe each layer's function
-- identify what is closed (matter) and what is open (energy) about the system
+**Safety note:** Use small plants only. Do not use poisonous plants or unknown wild animals.
 
----
+**Setup:** Lay out all materials in the build order.
 
-#### Activities
+**Activity steps:**
 
-**1. The Layered Build**
+1. Add a thin rock layer.
+2. Add a small charcoal layer if you have it.
+3. Add soil.
+4. Plant the greenery.
+5. Mist lightly.
+6. Close the lid.
+7. Put the jar in indirect light.
 
-Work through these steps in order. Have the student do each layer.
+**What to ask:**
 
-**Step 1: Drainage layer.** Pour about 1 inch of small rocks or pebbles into the bottom of the jar.
+- Which layer do you think matters most to the plants?
+- Where do you think the water will be tomorrow?
+- What do you think will happen on the glass?
 
-> "Why do we need this? When water sinks to the bottom, the roots above need to stay dry. The rocks make space for water to sit without drowning the soil."
+**Draw It:** Draw the terrarium layers like a side-view picture and label them.
 
-**Step 2: Filter layer (optional).** Sprinkle a thin layer of activated charcoal on top of the rocks (about ½ inch).
+**Talk About It:**
 
-> "Charcoal absorbs smells and slows mold. It's a filter for the closed system."
+- Why is the lid helpful in this system?
+- What still has to come from outside the jar?
+- What would happen if we forgot the light?
 
-**Step 3: Soil layer.** Add 2–3 inches of potting soil on top of the charcoal/rocks.
+**What success looks like:** The child can explain what at least three layers are for.
 
-> "This is where the plants live. The soil also holds a bunch of water that the plants will need."
+## Guided Session 2: Day 1 Observation and Prediction
 
-**Step 4: Plant layer.** Make small holes in the soil and place the plants. Press soil gently around their roots. Use 2–4 small plants depending on jar size. Moss can be placed in patches around the plants to cover bare soil.
+**Time:** 20-25 minutes
 
-**Step 5: Water.** Use a spray bottle to mist the inside generously, OR add about 2 tablespoons of water per quart of jar capacity. Soil should be damp, not soaked.
+**Materials:** terrarium, Systems Log, paper, pencil
 
-**Step 6: Seal.** Put the lid on. If using plastic wrap, secure it tightly with a rubber band.
+**Setup:** Put the terrarium where the child can look closely at it.
 
-**Step 7: Place.** Set the terrarium in indirect light — near a north-facing window, or several feet from a south-facing one. Not in direct sunbeams.
+**Activity steps:**
 
----
+1. Ask the child to look slowly at the jar from top to bottom.
+2. Make a Day 1 observation card.
+3. Ask where the water is now.
+4. Predict what might happen in a few days.
 
-**2. What Did We Just Build?**
+Use this first observation card:
 
-After the lid is on, ask:
+- What do you see on Day 1?
+- Where is the water?
+- What do you predict will happen by next week?
 
-> "What can come into this jar now? What can leave it?"
+**Draw It:** Draw the jar today and circle where water is hiding.
 
-Walk through it:
+**Talk About It:**
 
-- **Can new water come in?** No.
-- **Can the existing water leave?** No.
-- **Can soil leave?** No.
-- **Can air leave or be replaced?** No (assuming a good seal).
-- **Can light come in?** Yes — through the glass.
-- **Can heat leave?** Yes — through the glass.
+- Do you think the water will stay in one place?
+- What might happen on the inside of the lid?
+- What changes would tell us the tiny world is working?
 
-> "So matter is **trapped** inside. Energy can **flow through**. That's a closed loop for matter and an open path for energy. Just like Earth."
+**What success looks like:** The child makes a prediction about water movement inside the jar.
 
-Introduce the term **closed loop**:
+## Troubleshooting in Kid Language
 
-> "A closed loop is a system where the matter stays inside and gets reused over and over. An open loop is one where matter flows in one direction — in, through, then out. Our terrarium is closed for matter. The Earth is too."
+- **Too wet:** swampy
+- **Too dry:** crispy
+- **Too sunny:** cooked plants
 
----
+If the terrarium looks unhealthy, change one thing at a time and observe again.
 
-**3. The Build Log Entry**
+## Systems Log
 
-Open the Systems Log to a fresh page and label it "Terrarium — Day 0." Record:
+Use this simple entry:
 
-- Build date
-- What plants were used
-- How much water was added
-- Where the terrarium is placed
-- A drawing of the terrarium as it looks today
-
-You will check this entry every week.
-
----
-
-## Guided Session 2
-### What Cycles Inside
-#### Learning Goal
-By the end of this session, the student can:
-
-- predict the water cycle that will occur inside the terrarium
-- describe how a closed matter system reuses the same matter
-- identify the energy input and output of the terrarium
-
----
-
-#### Activities
-
-**1. The Water Cycle Prediction**
-
-Before any visible activity happens (it may take a few hours to a day), ask the student to predict:
-
-> "Sunlight is heating up the inside of the jar. Some of the water is going to evaporate. Where will it go? Then what?"
-
-Walk through the prediction together. Help them sketch it:
-
-```
-                 [ SUNLIGHT IN ]
-                       ↓
-                 ┌───────────┐
-                 │ (water    │
-                 │  vapor)   │ ← condenses on the cool lid/walls
-                 │           │
-                 │ ▓▓▓▓▓▓▓▓▓ │ ← drips back down
-                 │  soil +   │
-                 │  plants   │ ← roots drink the water
-                 │  (water   │
-                 │  evaps    │
-                 │  from     │
-                 │  leaves)  │ ← transpiration
-                 └───────────┘
-                       ↑
-                 [ HEAT OUT ]
+```text
+What I noticed:
+What moved:
+Where it came from:
+Where it went:
+My drawing:
+One question I still have:
 ```
 
-This is the water cycle. **Evaporation** from the soil, **transpiration** from the leaves, **condensation** on the cool surface of the glass, **precipitation** as drops fall back to the soil. We will go into this cycle in much more detail in Week 4.
+Helpful prompts for this week:
 
-For now: the same water just keeps going around. The amount of water in the jar does not change — it just keeps changing location and state.
+- What I noticed: "I saw water on..."
+- What moved: "The water moved from... to ..."
+- Where it came from: "The light came from..."
+- My drawing: jar layers and water drops
 
----
+## Engineer Corner
 
-**2. The Carbon and Oxygen Cycle**
+Older learners and facilitators can connect the jar to formal systems language.
 
-The water cycle is the most visible thing in the terrarium, but it is not the only cycle happening. Explain:
-
-> "Plants take in carbon dioxide and release oxygen during the day (photosynthesis). At night, they do a little of the reverse — taking in oxygen and releasing carbon dioxide. Decomposer microbes in the soil also breathe out CO₂. The same atoms of carbon and oxygen keep getting passed back and forth between the plants and the soil."
-
-Students don't need to memorize this — they just need to understand that **more than one cycle is happening inside the sealed jar**, all using the same fixed amount of matter.
-
----
-
-**3. Stress Test Discussion**
-
-Ask:
-
-> "What would happen if we put the terrarium in direct, full sunlight all afternoon?"
-
-Walk through it:
-
-- The glass would heat up.
-- The water would evaporate faster than the plants could handle.
-- The inside temperature would climb.
-- The plants would wilt or cook.
-
-This is **thermal overload**. The system has a maximum amount of energy throughput it can handle before it breaks. (We will revisit this idea in Week 8: carrying capacity.)
-
-Ask:
-
-> "What would happen if we put the terrarium in a totally dark closet for a month?"
-
-Walk through it:
-
-- No light = no photosynthesis.
-- The plants would die.
-- Decomposers would eventually break everything down.
-- The system would lose its living component.
-
-Both directions — too much energy and not enough — break the system. Steady state requires the right level of input.
-
----
-
-## Independent Practice
-
-### Goal
-
-Set up a regular observation rhythm for the terrarium and log the first week of data.
-
-### Activities
-
-**1. Daily Check-In (5 minutes)**
-
-For the next week (and every week through the curriculum), spend 2–5 minutes a day looking at the terrarium and writing or drawing what you see. Things to look for:
-
-- **Condensation on the lid:** Are there water droplets on the inside of the glass? How many? Where?
-- **Soil moisture:** Does the soil look wet, damp, or dry?
-- **Plant color:** Are the plants green and standing up? Or wilting? Or yellowing?
-- **Fog or mist:** Is there visible fog inside the jar at any time of day?
-- **Mold:** Any white or fuzzy growth? (Some mold is normal in a humid environment; a lot indicates too much water.)
-
-**2. The First Week Log**
-
-In your Systems Log, set up a small table:
-
-| Day | Condensation? | Soil | Plants | Notes |
-|-----|---------------|------|--------|-------|
-| 1   |               |      |        |       |
-| 2   |               |      |        |       |
-| ... |               |      |        |       |
-
-Fill it in once a day for the next 7 days.
-
-### Systems Log
-
-> **System being observed:** My terrarium
->
-> **Day 0:** [drawing + initial setup]
->
-> **What I predict will happen by Day 7:**
->
-> **What actually happened:** [fill in at the end of the week]
-
-**Sentence starters for younger learners:**
-- "Today the terrarium ___."
-- "I noticed ___ inside the jar."
-
-### Reflection Questions
-
-- The water inside the jar is the same water from Day 0 — just moved around. Does that change how you think about water in general?
-- The Earth is a much, much bigger version of this jar. The water in the oceans, the rain, your drinking glass — it's all the same water cycling. How much new water comes to Earth from outside?
-- If the terrarium runs out of light, it fails. What does Earth run out of if its sunlight stops?
-
-
-## Local Investigation Prompt
-
-Compare your terrarium to one other small local system, such as a fish tank, greenhouse, compost bin, or foggy window. What stays inside, and what moves in or out?
-
----
-
-## Check for Understanding
-
-After this week, check whether the learner can:
-
-1. **Identify closed vs. open:** "What can come in and out of the sealed jar? What can't?" (Looking for: light/heat can flow through, matter cannot.)
-2. **Predict the cycle:** "When the water on the soil evaporates, where does it go? Then what?" (Looking for: a description of evaporation → condensation on lid → drops back down.)
-3. **Apply to Earth:** "How is our planet similar to this jar?" (Looking for: any version of "matter is trapped, energy flows through.")
-
-If the learner can do at least 2 of these, they're ready for Week 4.
-
----
-
-## Pause and Notice
-
-:::note What Matters Here
-After the build, sit and look at the terrarium together.
-
-> "We just built a small version of how the planet works. Every drop of water inside there is going to be reused over and over for as long as the system runs. The same air. The same dirt. Nothing gets thrown away, because there is no 'away' for it to go to."
-
-This is the most important systems insight in the entire curriculum. **There is no away.** Inside the jar, you can see it directly. On the planet, the same rule applies — just at a much bigger scale, with much slower cycles.
-
-**This week's takeaway:** A closed-loop system has to reuse everything inside it. There is nowhere else for matter to go.
-:::
-
----
-
-## Spiral Review
-
-:::tip Connecting to Earlier Weeks
-- **From Week 1:** The energy that drives the terrarium is sunlight. Same as the planet.
-- **From Week 2:** The sunlight that enters as light gets used by the plants (turned into chemical energy) and eventually leaves as heat. Energy flows through; matter cycles. Both rules apply to the jar.
-
-Ask: "Where does the heat from the terrarium go?" (Out through the glass, eventually into the room, eventually into the universe — same path as planetary heat.)
-:::
-
----
-
-
-:::tip Extend (Ages 10–12)
-Set up two terrariums with different variables — one with more water, one with less; or one in brighter light, one in dimmer. After 2–3 weeks, compare. Why did one do better? Can you identify the system's preferred operating range?
-:::
-
-:::tip Vocabulary This Week
-**Closed loop** • **Open loop** • **Ecosystem** • **Condensation** • **Transpiration** • **Steady state**
-:::
-
-## Preview of Next Week
-
-Next week, we zoom out from the jar to the whole planet and trace the **water cycle** — how the same water gets used over and over across the entire Earth, what slows it down, and what speeds it up.
-
-
+- The terrarium is mostly closed for matter: water and plant material stay in the jar unless you open it.
+- It is still open for energy because sunlight enters.
+- Plants use light to build sugars. Microbes help break old material down so it can be reused.
+- Keep the carbon and oxygen details here as optional background, not as the main kid-facing path.

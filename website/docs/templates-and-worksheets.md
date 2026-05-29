@@ -1,35 +1,37 @@
 ---
 sidebar_label: "Templates and Worksheets"
 title: "Templates and Worksheets"
-description: "Printable and copyable curriculum templates for logs, audits, diagrams, specs, failure modes, and capstone planning."
+description: "Printable and copyable student-friendly templates for logs, maps, checklists, and capstone planning."
 ---
 
 # Templates and Worksheets
 
 These templates are intentionally plain. They are designed to print cleanly, copy into a notebook, or read aloud while a student fills them in.
 
+Most pages use kid-first language in the main prompt and keep the more technical engineering idea nearby in the heading when it helps.
+
 ---
 
 ## Systems Log Weekly Entry
 
 ```text
-SYSTEMS LOG ENTRY
+SYSTEMS LOG
 
 Date:
 Week:
 Today's system:
 
-What I observed:
+What I noticed:
 
-What is moving through this system:
+What moved:
+
+Where it came from:
+
+Where it went:
 
 My diagram or sketch:
 
-My prediction:
-
-What actually happened:
-
-What I want to check next:
+One question I still have:
 ```
 
 ---
@@ -48,24 +50,24 @@ What I want to check next:
 
 ---
 
-## Reservoirs And Flows Diagram Planner
+## Stored Parts and Moving Parts Planner
 
 ```text
 SYSTEM NAME:
 
-Main reservoirs or stored parts:
+Main stored parts:
 -
 -
 -
 
-Main flows or movements:
+Main moving parts:
 -
 -
 -
 
-Input from outside the system:
+What comes in from outside the system:
 
-Output leaving the system:
+What leaves the system:
 
 Where the loop is open or closed:
 
@@ -74,9 +76,9 @@ My sketch:
 
 ---
 
-## Local Water Audit
+## Local Water Path Audit
 
-| Where water enters | Where water leaves | Natural or built path? | Notes |
+| Where water comes in | Where water goes out | Natural or built path? | Notes |
 |---|---|---|---|
 |  |  |  |  |
 |  |  |  |  |
@@ -95,7 +97,7 @@ One rerouting I noticed:
 
 ---
 
-## Product "Away" Audit
+## Object Journey Map
 
 | Stage | Notes |
 |---|---|
@@ -111,7 +113,7 @@ One rerouting I noticed:
 
 ---
 
-## Resource Pool Game Tracker
+## Shared Resource Game Tracker
 
 | Round | Pool before | Player 1 | Player 2 | Player 3 | Player 4 | Pool after harvest | Regen | Pool after regen |
 |---|---|---|---|---|---|---|---|---|
@@ -122,7 +124,7 @@ One rerouting I noticed:
 | 5 |  |  |  |  |  |  |  |  |
 
 ```text
-Maximum sustainable yield for this setup:
+Safe amount to take each round for this setup:
 
 What strategy did we try?
 
@@ -131,14 +133,14 @@ Did the pool stay stable, shrink, or collapse?
 
 ---
 
-## Open-Loop Process Diagnosis
+## Spot the Open Loop
 
 ```text
 PROCESS NAME:
 
-Current useful output:
+What this process is trying to make or do:
 
-Current waste output:
+What leaves as waste or extra load:
 
 Main inputs:
 -
@@ -154,48 +156,48 @@ What part of the process would I redesign first?
 
 ---
 
-## Capstone Proposal Template
+## Capstone Plan Template
 
 ```text
-CAPSTONE PROPOSAL
+CAPSTONE PLAN
 
-1. Current state
+1. What happens now
 
-2. What is leaving the system as waste or overload
+2. What is leaving the system as waste, overload, or loss
 
-3. Proposed circular redesign
+3. My better loop idea
 
-4. What the redesign requires
+4. What my idea needs
 
-5. Expected measurable outcomes
+5. What I expect to improve
 
-6. Known constraints
+6. Real limits I need to work with
 
 7. Questions I still need to answer
 ```
 
 ---
 
-## Specs Sheet
+## Make-the-Plan-Real Sheet
 
 | Field | Fill in |
 |---|---|
 | System being redesigned |  |
-| Scope boundary |  |
-| Input rate |  |
-| Output rate |  |
+| What counts as inside this system |  |
+| What comes in each day or week |  |
+| What leaves each day or week |  |
 | Space needed |  |
 | Time needed |  |
 | Materials needed |  |
-| Operator or owner |  |
-| Success metric |  |
-| Review schedule |  |
+| Who helps run it |  |
+| How we will know it works |  |
+| When we will check again |  |
 
 ---
 
-## Failure-Mode Worksheet
+## What Might Go Wrong? Worksheet
 
-| Component or step | What could fail? | Likelihood | Severity | Early warning sign | Recovery plan |
+| Part or step | What could go wrong? | How likely? | How big is the problem? | Early warning sign | What will we do next? |
 |---|---|---|---|---|---|
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
@@ -204,9 +206,9 @@ CAPSTONE PROPOSAL
 
 ---
 
-## Stakeholder Analysis
+## Who Is Affected?
 
-| Stakeholder | How are they affected? | Likely concern | My best response |
+| Person or group | How are they affected? | Likely concern | My best response |
 |---|---|---|---|
 |  |  |  |  |
 |  |  |  |  |
@@ -215,18 +217,18 @@ CAPSTONE PROPOSAL
 
 ---
 
-## Pitch Outline
+## Share Your Idea Outline
 
 ```text
-1. Current state
+1. What happens now
 
-2. Why it matters as a systems problem
+2. Why this matters as a system problem
 
-3. Proposed solution
+3. My idea
 
-4. What it requires
+4. What it needs
 
-5. Expected outcomes
+5. What I expect to improve
 ```
 
 ---
@@ -240,9 +242,9 @@ What I would change:
 
 A question I did not expect:
 
-The most reasonable objection I heard:
+The most reasonable concern I heard:
 
-How proposal v2.0 would improve:
+How version 2.0 would improve:
 
 What evidence I still need:
 ```
@@ -255,4 +257,4 @@ If you expect to use these templates often, print:
 
 - one Systems Log sheet per week
 - one terrarium log per student
-- two copies each of the failure-mode and stakeholder sheets for the capstone
+- two copies each of the What Might Go Wrong and Who Is Affected sheets for the capstone

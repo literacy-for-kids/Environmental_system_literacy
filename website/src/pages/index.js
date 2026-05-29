@@ -18,8 +18,8 @@ function HomepageHeader() {
             A free, open curriculum that teaches ages 8–12 how planetary systems work and where human infrastructure fits into them.
           </p>
           <p className={styles.heroLead}>
-            18 weeks of hands-on, experiment-driven lessons — each about 20 minutes
-            per session — designed for classrooms, homeschool families, after-school
+            18 weeks of hands-on, experiment-driven lessons — each designed for about
+            20-30 minutes per session — designed for classrooms, homeschool families, after-school
             clubs, and any adult who wants to help kids move from vague environmental
             feelings to rigorous, physical systems-thinking about the planet they live on.
           </p>
