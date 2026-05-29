@@ -1,334 +1,175 @@
 ---
 sidebar_position: 2
-sidebar_label: "Week 2: Energy Cannot Be Created or Destroyed"
-title: "Week 2: Energy Cannot Be Created or Destroyed"
-description: "Students establish the absolute rule that energy cannot be created or destroyed, only transferred, and look at efficiency loss at every step of a food web."
+sidebar_label: "Week 2: Energy Changes Form"
+title: "Week 2: Energy Changes Form (Energy Cannot Be Created or Destroyed)"
+description: "Children explore how energy changes into motion, light, sound, heat, and stored energy without disappearing."
 ---
 
-# Week 2: Energy Cannot Be Created or Destroyed
+# Week 2: Energy Changes Form (Energy Cannot Be Created or Destroyed)
 *Unit 1: The Planetary Engine*
 
-Last week we identified the sun as Earth's main energy input. This week we look at two rules that govern what happens to that energy as it moves through the system.
+## This Week's Big Question
 
-These rules are not negotiable. They are not "usually true." They are physical laws — as solid as gravity:
+If energy does not disappear, where does it go when something changes?
 
-1. **Energy cannot be created or destroyed. It can only change form.**
-2. **Every time energy changes form, some of it degrades into a less useful form — usually heat.**
+This week children watch energy change shape. A rubber band snaps back, a flashlight glows, hands get warm, and a food chain gets smaller as energy spreads out along the way.
 
-These two rules together explain why a hawk has to eat so many mice, why your phone battery gets warm when it charges, and why even the most efficient machine ever built still produces waste heat. They are the operating constraints of every system, planetary or otherwise.
+## Kid Version in One Sentence
 
----
+Energy does not disappear; it changes into motion, light, sound, heat, or stored energy.
 
-:::info Facilitator Snapshot
-- The First Law (conservation) and Second Law (entropy) are abstract, but the food-web demonstration makes the Second Law concrete and memorable.
-- Don't worry about precise definitions of entropy. "Energy quality degrades" captures the important idea.
-- The "10% rule" of trophic efficiency is a useful approximation, not a perfectly exact number.
-- If students seem to understand from the food-web math, you don't need to drill the physics.
-:::
+## You'll Discover
 
-:::tip Quick Navigation
-- [Facilitator Preparation](#facilitator-preparation)
-- [Guided Session 1: The Two Laws](#guided-session-1)
-- [Guided Session 2: The Food-Web Tax](#guided-session-2)
-- [Independent Practice](#independent-practice)
+- how energy can change form without vanishing
+- why many systems give off heat while doing another job
+- why food chains get smaller as energy moves upward
+
+:::info Grown-up Note
+- Keep the main path concrete: warm hands, stretched rubber band, flashlight, and bean piles.
+- Save the formal law names for the Older Learner box.
+- Sessions are designed for about 20-30 minutes. Use the Short Path when you only have 15-20 minutes.
+
+**Common Kid Misconceptions**
+- Misconception: "Lost energy is gone forever." Response: "Usually it spread out as heat, so it is harder to use, but it was not destroyed."
+- Misconception: "Heat is a different thing from energy." Response: "Heat is one way energy shows up."
+- Misconception: "Big animals at the top of a food chain get the most energy." Response: "They often need the most energy, but less usable energy reaches them."
 :::
 
 ## Week at a Glance
 
 | | |
 |---|---|
-| **Prep time** | ~10 minutes |
-| **Materials** | A rubber band, a flashlight or phone light, 100 small objects (beans, pennies, paper clips), paper and pencil, Systems Log |
-| **Key vocabulary** | First Law of Thermodynamics, Second Law of Thermodynamics, entropy, trophic efficiency, food web |
-| **Difficulty** | Introductory |
+| Session length | About 20-30 minutes |
+| Prep time | About 10 minutes |
+| Materials | Rubber band, flashlight or phone light, dry beans or counters, paper, pencil, Systems Log |
+| Safety | Do not shine bright lights into eyes; do not snap a rubber band at people |
+| Core vocabulary | energy, heat, stored energy, food chain, waste heat |
+| Older learner words | First Law of Thermodynamics, Second Law of Thermodynamics, entropy, trophic efficiency |
 
-## Facilitator Preparation
+## Core Vocabulary
 
-:::info Before You Begin
-- Gather 100 small countable objects (dried beans, pennies, paper clips, beads — anything you can stack or sort).
-- Find a rubber band and a flashlight or phone with a light.
-- Have a few sheets of paper for diagramming the food-web pyramid.
-- Pull out the Systems Log from Week 1.
-:::
+| Word | Kid-friendly meaning |
+|---|---|
+| energy | The power that makes changes happen |
+| heat | Energy that spreads out and makes something warmer |
+| stored energy | Energy kept for later, like in food or a stretched rubber band |
+| food chain | A path showing who gets energy by eating whom |
+| waste heat | Heat made while a system is doing some other job |
 
-:::tip Facilitation Mindset
-Resist the urge to teach thermodynamics formally. Instead, lead with observations:
+## Short Path for Younger Learners
 
-- "Stretch this rubber band fast and feel it. What happened?"
-- "Why does your phone get warm when it's charging?"
-- "If a cow has to eat 10 pounds of grass to make 1 pound of beef, where did the other 9 pounds go?"
+- Do one quick energy-change demo: stretch a rubber band, rub hands, or use a flashlight.
+- Build one simple bean food chain with shrinking piles: plant, bug, frog, owl.
+- Draw the food chain with arrows and smaller piles each step.
+- End with the Systems Log and one sentence: "The energy changed into..."
 
-The rules emerge from the observations.
-:::
+Success looks like: the child can explain that energy changes form and often spreads out as heat.
 
-## Minimum Path for Ages 8–9
+## Extra Challenge for Older Learners
 
-- Core activity: Use one quick heat-loss demo, such as stretching a rubber band or rubbing hands together, and notice that the system gets warmer as energy changes form.
-- Core diagram or log task: Draw a very simple energy pyramid or food chain with arrows showing that less useful energy moves upward each step.
-- Discussion questions:
-   1. Why did the object or your hands get warmer?
-   2. Where did the "extra" energy go?
-   3. Why can an animal not pass all of its food energy to the next animal?
-- Success looks like: The learner can say that every energy transfer spreads some energy out as heat.
-- Skip for younger learners: the formal laws, entropy vocabulary, and the more exact trophic-efficiency math.
+- Compare several devices and identify their main job and their waste heat.
+- Use approximate 10% transfer language for a simple food chain.
+- Discuss why top predators are fewer and need larger support systems.
 
-:::info For Ages 10–12
-- Introduce the standard ~10% trophic efficiency figure (with the caveat that real numbers range from about 5% to 20%).
-- Do the energy-pyramid math: if grass captures 1,000 units of solar energy, grasshoppers get ~100, frogs that eat grasshoppers get ~10, snakes that eat frogs get ~1, hawks that eat snakes get ~0.1.
-- Discuss why top predators are rare. Discuss why eating lower on the food web (e.g., grains directly) is more energy-efficient per person.
-:::
+## Read-Aloud Opening
 
----
+"Today we are following energy after it changes shape. When you move, light a flashlight, or stretch a rubber band, energy does not disappear. It changes into other forms. Some stays useful for the next step, and some spreads out as heat."
 
-## Guided Session 1
-### The Two Laws
-#### Learning Goal
-By the end of this session, the student can:
+## Guided Session 1: Watch Energy Change
 
-- state in their own words that energy cannot be created or destroyed
-- observe firsthand that energy conversion produces waste heat
-- understand that "entropy" is the technical word for energy degrading into less useful forms
+**Time:** 20-25 minutes
 
----
+**Materials:** rubber band, flashlight or phone light, hands, paper
 
-#### Activities
+**Safety note:** Stretch the rubber band gently and keep it pointed away from faces.
 
-**1. The Rubber Band Test**
+**Setup:** Place the flashlight and rubber band on the table before the child arrives.
 
-Hand the student a rubber band. Have them stretch it quickly, then immediately press the stretched part against their lip or forehead (skin senses temperature better than fingers).
+**Activity steps:**
 
-> "Did it feel warm? Yes? Where did that heat come from?"
+1. Stretch the rubber band and feel it right away.
+2. Rub hands together quickly and feel the warmth.
+3. Turn on the flashlight for a minute and notice light plus warmth.
+4. Ask, "Where did the energy go each time?"
 
-The answer: the muscle energy you used to stretch the rubber band did not vanish. Some of it became potential energy stored in the stretched band. The rest became heat. Energy did not disappear — it just *changed form*.
+**What to ask:**
 
-This is the **First Law of Thermodynamics**:
+- What changed in each example?
+- Which kind of energy could you notice with your eyes?
+- Which kind could you notice with your skin?
+- Did any energy vanish, or did it just change form?
 
-> **Energy cannot be created or destroyed. It can only change form.**
+**Draw It:** Make a before-and-after sketch for one example, such as `battery -> light + warmth`.
 
----
+**Talk About It:**
 
-**2. The Flashlight Test**
+- Why do machines and bodies often get warm while doing something else?
+- Can you think of a toy or tool that makes both motion and heat?
+- Why might a system never be perfect at only one job?
 
-Turn on a flashlight (or phone flashlight). Have the student feel the front of the light — there is light coming out. Now have them feel the back or side of the flashlight after a few minutes.
+**What success looks like:** The child can name at least two forms energy changed into.
 
-> "It's getting warm. The flashlight is using batteries to make light. But it's also making heat. Where did that heat come from?"
+## Guided Session 2: Why Food Chains Get Smaller
 
-The batteries had a fixed amount of chemical energy. Some became light. Some became heat. The total was conserved.
+**Time:** 20-30 minutes
 
-Now ask:
+**Materials:** 25-40 dry beans or counters, paper, pencil
 
-> "If we wanted to make a flashlight that produced only light and no heat — was 100% efficient at turning battery energy into light — could we?"
+**Setup:** Put a starting pile of beans on the table and label it "plant."
 
-The Second Law of Thermodynamics says **no**. Every energy conversion produces some waste heat. Every. Single. One.
+**Activity steps:**
 
-This is the **Second Law of Thermodynamics**:
+1. Say the whole pile stands for energy stored in plants.
+2. Move a smaller pile to a bug or rabbit.
+3. Move a smaller pile again to a frog or fox.
+4. Move a smaller pile again to an owl or hawk.
+5. Look at how the piles shrink.
 
-> **Every time energy changes form, some of it degrades into less useful forms — usually heat. This is called increasing entropy.**
+For the younger path, keep the numbers whole and visible. You can use 20 beans and move about 10, then 5, then 2, then 1. The exact number is less important than the pattern.
 
-**Entropy** is just the technical word for "energy that has spread out and become less useful." You can't gather it back up.
+**What to ask:**
 
----
+- Why do the piles get smaller?
+- Where did the rest of the energy go?
+- Why are there usually more plants than top predators?
 
-**3. The Heat Hunt**
+**Draw It:** Draw a food chain with shrinking bean piles under each living thing.
 
-Have the student walk around the house or classroom and find five things that produce waste heat:
+**Talk About It:**
 
-- A laptop (warm bottom)
-- A lamp (warm bulb)
-- A refrigerator (warm coils on the back — yes, the fridge produces heat while cooling food)
-- A person who has been exercising
-- Their own skin (the body constantly generates heat as a side effect of being alive)
+- What would happen if we tried to support too many top predators?
+- Why do animals need lots of energy just to stay alive?
+- Where else do you see a system getting smaller at each step?
 
-Key insight: **everything that uses energy is also producing waste heat.** That heat eventually radiates away. On a planetary scale, this is how Earth keeps from getting infinitely hot — incoming solar energy is balanced by outgoing heat radiation.
+**What success looks like:** The child can explain that each step uses energy and leaves less stored energy for the next step.
 
----
+## Systems Log
 
-## Guided Session 2
-### The Food-Web Tax
-#### Learning Goal
-By the end of this session, the student can:
+Use this simple entry:
 
-- describe trophic efficiency (the ~10% rule) and why it exists
-- explain why top predators are rare and require enormous habitat
-- connect food-web structure to the Second Law of Thermodynamics
-
----
-
-#### Activities
-
-**1. The 100-Bean Demonstration**
-
-Pour out 100 beans (or pennies) on the table. Tell the student:
-
-> "These represent 100 units of solar energy captured by a patch of grass. Let's see what happens as that energy moves up a food web."
-
-Step 1: A grasshopper eats the grass. Out of the 100 units of energy, the grasshopper actually uses some to move around, breathe, and stay warm. Only about 10% gets stored in the grasshopper's body as new tissue.
-
-> "Set 10 beans aside. That's the grasshopper. The other 90 beans were spent on the grasshopper's living costs — and most of those costs were paid in waste heat."
-
-Step 2: A frog eats the grasshopper. Same deal — the frog uses most of the energy to live, and only about 10% gets stored.
-
-> "Take 1 bean from the grasshopper pile. That's the frog. The other 9 beans went to the frog's living costs."
-
-Step 3: A snake eats the frog.
-
-> "Now we have 0.1 bean's worth of energy in the snake. That's a fraction of a bean."
-
-Step 4: A hawk eats the snake.
-
-> "Now we have 0.01 bean's worth. That's why one hawk needs to eat *many* snakes, which needed to eat many frogs, which needed to eat many grasshoppers, which needed to eat huge amounts of grass."
-
----
-
-**2. The Energy Pyramid**
-
-Draw the pyramid together:
-
-```
-                  HAWK         (0.1 units)
-                /      \
-           SNAKE          (1 unit)
-          /      \
-      FROG              (10 units)
-     /      \
-GRASSHOPPER             (100 units)
-   /      \
-GRASS                   (1,000 units of solar energy captured)
+```text
+What I noticed:
+What moved:
+Where it came from:
+Where it went:
+My drawing:
+One question I still have:
 ```
 
-Discussion:
+Helpful prompts for this week:
 
-- Why are there always more plants than herbivores, and more herbivores than carnivores? (Because energy is lost at every step.)
-- Why are top predators (lions, eagles, sharks, wolves) so rare? (Because the energy pyramid narrows.)
-- Why does a single hawk need such a huge territory? (Because the food chain that supports it has to be very wide at the bottom.)
+- What I noticed: "The flashlight made..."
+- What moved: "Energy moved from..."
+- Where it went: "Some energy became..."
+- My drawing: a shrinking food chain
 
----
+## Engineer Corner
 
-**3. The Vegetarian Math (for ages 10–12)**
+Older learners and facilitators can add the formal language here.
 
-Pose this question:
+- The First Law of Thermodynamics says energy cannot be created or destroyed.
+- The Second Law says every energy change spreads some energy into less useful forms, usually heat.
+- The technical word entropy belongs here, not in the main kid path.
+- Food webs often use a rough 10% transfer rule, but real ecosystems vary.
 
-> "If you wanted to feed 1,000 people, which would require less land and water — feeding them grain directly, or feeding the grain to cows and then giving the people beef?"
-
-Walk through the math:
-
-- 1,000 people eating grain directly: you need enough grain for 1,000 people. Call this X.
-- 1,000 people eating beef: you need 10X grain to feed the cows that produce enough beef for 1,000 people.
-
-This is not a moral argument about diet — it is just thermodynamics. Eating closer to the bottom of the food web is more energy-efficient. Eating higher up requires more inputs (land, water, energy) per calorie of human food.
-
-(This is also why factory-scale meat production has a big environmental load — not because anyone is "bad," but because moving energy up trophic levels has a thermodynamic cost.)
-
----
-
-## Independent Practice
-
-### Goal
-
-Observe trophic efficiency in real life and add a Systems Log entry.
-
-### Activities
-
-**1. Spot the Waste Heat**
-
-Find five different devices, animals, or processes around your home or neighborhood that are producing heat as a byproduct (not as their main job). Write down what they are *supposed* to be doing, and the heat they are producing on the side.
-
-Example:
-
-| Thing | Job | Waste Heat |
-|---|---|---|
-| Laptop | Compute | Warm bottom |
-| Refrigerator | Cool food | Hot coils on back |
-| Dog | Live | Warm fur |
-| Light bulb | Light | Hot bulb |
-| Hair dryer | Move air | Hot air (mostly heat, not airflow) |
-
----
-
-**2. The Food-Web Sketch**
-
-Pick a familiar animal — a fox, an owl, a shark, anything. Draw a food web showing what it eats, what those things eat, all the way down to plants and sunlight. At each level, note that ~90% of the energy is lost.
-
----
-
-### Systems Log
-
-> **Today's System:** Energy flow through Earth's systems.
->
-> **The two rules I learned this week:**
-> 1. ____
-> 2. ____
->
-> **Where I noticed waste heat:**
->
-> **The food chain I drew:** [include the sketch]
->
-> **What surprised me:**
-
-**Sentence starters for younger learners:**
-- "Every time something uses energy, ___ leaks out."
-- "A hawk has to eat a lot of food because ___."
-
-### Reflection Questions
-
-- Why don't we see ecosystems with five or six layers of predators stacked on each other?
-- The Earth has been receiving sunlight for billions of years. Why isn't it red-hot by now?
-- If you could design a 100%-efficient machine, what would the Second Law say about that?
-
-
-## Local Investigation Prompt
-
-Find one machine, device, or body process around you that gets warm while it works. What kind of energy change do you think is happening?
-
----
-
-## Check for Understanding
-
-After this week, check whether the learner can:
-
-1. **State the conservation rule:** "Can you destroy energy?" (Looking for: "No, it just changes form.")
-2. **Identify waste heat:** "Why does a phone get warm when it's charging?" (Looking for: some recognition that not 100% of the electricity becomes stored battery energy — some leaks as heat.)
-3. **Apply the food-web idea:** "Why are there fewer hawks than mice?" (Looking for: an answer involving energy loss at each step or "it takes a lot of mice to feed a hawk.")
-
-If the learner can do at least 2 of these, they're ready for Week 3.
-
----
-
-## Pause and Notice
-
-:::note What Matters Here
-After the bean demonstration, ask:
-
-> "Looking at that pyramid — does anything change about how you think about a forest, or a hawk, or a hamburger?"
-
-The point is not to assign blame to anyone for eating any particular way. The point is that **every level of a food web has a real, measurable energy cost** built in by the laws of physics. Once you can see that cost, you can think more clearly about systems that involve food.
-
-**This week's takeaway:** Energy is not free, and it always degrades. Every system has to pay this tax. It is the same tax everywhere — your phone, a hawk, the planet.
-:::
-
----
-
-## Spiral Review
-
-:::tip Connecting to Earlier Weeks
-Last week we said the sun is Earth's main energy input. This week we learned that **the input arrives, gets used, and leaves as heat radiating back to space**. The Earth is a throughput system — energy flows through, it does not accumulate forever.
-
-If a system *did* accumulate energy without releasing it, what would happen? (It would heat up indefinitely. This is exactly the issue with greenhouse gases — they slow the outgoing heat, so a little more accumulates. We'll touch this in Week 5.)
-:::
-
----
-
-
-:::tip Extend (Ages 10–12)
-Look up the actual energy efficiency of common devices: incandescent bulbs (~5%), LED bulbs (~40%), gasoline engines (~25%), electric motors (~85–95%). Discuss why LEDs replaced incandescents and why electric vehicles can be more efficient than gasoline ones, framed entirely in thermodynamic terms.
-:::
-
-:::tip Vocabulary This Week
-**First Law of Thermodynamics** • **Second Law of Thermodynamics** • **Entropy** • **Trophic efficiency** • **Food web** • **Waste heat**
-:::
-
-## Preview of Next Week
-
-Next week, we build a sealed jar that contains an entire tiny ecosystem — a closed loop for matter, an open path for energy. It will run as a background experiment for the rest of the course.
-
-
+The core systems idea stays simple: energy is conserved, but it does not stay equally useful at every step.

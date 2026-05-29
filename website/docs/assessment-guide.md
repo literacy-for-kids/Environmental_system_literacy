@@ -36,7 +36,7 @@ Do not wait for polished writing. A rough drawing with correct arrows is often s
 A learner is usually ready for the next week when they can do all four of these things:
 
 1. Name the main parts of the system being studied.
-2. Explain at least one important flow, exchange, or failure mode.
+2. Explain at least one important flow, exchange, or likely trouble spot.
 3. Complete the week's minimum diagram, drawing, or tracking task.
 4. Answer at least two of the three Check for Understanding prompts with mostly correct reasoning.
 
@@ -76,21 +76,21 @@ Use this as a fast weekly check:
 | Secure | Current state, open loop, and proposed redesign are all visible and connected |
 | Strong | Proposal is neutral, specific, and supported by a usable diagram and rough load estimate |
 
-### Specs Sheet (Week 16)
+### Make-the-Plan-Real Sheet (Week 16)
 
 | Level | What it looks like |
 |---|---|
-| Emerging | Specs are mostly wishes or labels with few quantities |
-| Secure | Specs include practical numbers for time, space, materials, and one success metric |
-| Strong | Specs include quantities, review conditions, and a clearly named hard or soft constraint |
+| Emerging | Plan details are mostly wishes or labels with few quantities |
+| Secure | Plan details include practical numbers for time, space, materials, and one success check |
+| Strong | Plan details include quantities, review conditions, and a clearly named hard or soft limit |
 
-### Failure-Mode and Stakeholder Review (Week 17)
+### Risk and Affected-People Review (Week 17)
 
 | Level | What it looks like |
 |---|---|
 | Emerging | Student can name a risk, but not what to do about it |
-| Secure | Student names realistic failure modes and one reasonable stakeholder concern |
-| Strong | Student gives mitigation steps, steel-mans objections, and identifies known limitations honestly |
+| Secure | Student names realistic ways the plan could go wrong and one reasonable concern from an affected person or group |
+| Strong | Student gives mitigation steps, seriously considers objections, and identifies known limitations honestly |
 
 ### Final Pitch (Week 18)
 
@@ -116,7 +116,7 @@ Look for these features:
 | Parts | Some important pieces are missing | Most major reservoirs, components, or actors are present | The student includes relevant subparts without clutter |
 | Arrows and direction | Arrows are missing or unclear | Most arrows show correct direction of flow | Arrows are labeled and distinguish material, energy, or information flow |
 | Labels | Labels are vague or absent | Key parts and flows are labeled clearly | Labels are precise and use course vocabulary accurately |
-| Cause and effect | The picture is static | The student shows what moves or changes | The student shows feedbacks, bottlenecks, or failure points |
+| Cause and effect | The picture is static | The student shows what moves or changes | The student shows feedbacks, bottlenecks, or trouble spots |
 
 If a learner's diagram is messy but conceptually right, treat it as a success. Clean formatting is secondary.
 
@@ -139,7 +139,7 @@ Look for these qualities:
 |---|---|
 | Accuracy | The explanation does not reverse the direction of the system or confuse core concepts |
 | Causality | The student can say why one change leads to another |
-| Specificity | The student names the actual material, energy source, or constraint |
+| Specificity | The student names the actual material, energy source, or limit |
 | Neutral voice | The student can describe the problem without doom language or blame language |
 | Transfer | The student can apply the same model to a new object or setting |
 
@@ -175,9 +175,9 @@ Systems thinking is the real target of the course. Use this checklist across the
 | Traces flows | Student follows matter or energy from source to destination |
 | Distinguishes reservoirs from flows | Student can say what is stored versus what is moving |
 | Notices open loops | Student identifies where outputs are not routed back into inputs |
-| Notices constraints | Student can name limits, bottlenecks, or load capacity |
+| Notices limits | Student can name limits, bottlenecks, or load capacity |
 | Notices tradeoffs | Student understands that redesigns usually solve one problem while adding another constraint |
-| Thinks in failure modes | Student can say how a design or cycle might break |
+| Thinks about what might go wrong | Student can say how a design or cycle might break |
 | Transfers models | Student applies the same box-and-arrow reasoning to a new case |
 
 ---
@@ -204,7 +204,7 @@ Expect learners in this band to:
 - include labels, quantities, and cause-and-effect links in diagrams
 - make rough estimates and justify them
 - compare two systems or two redesign options
-- name tradeoffs, constraints, and likely failure modes
+- name tradeoffs, limits, and likely trouble spots
 
 Do not require perfect formal science writing. Clear reasoning matters more than polish.
 
@@ -238,8 +238,8 @@ Extend when the learner is ready to estimate, compare, quantify, or redesign.
 For the final four weeks, switch from weekly quick checks to artifact-based review:
 
 - Week 15: system diagnosis
-- Week 16: specs and measurable outcomes
-- Week 17: failure modes and stakeholder reasoning
+- Week 16: plan details and measurable outcomes
+- Week 17: risks and affected-people reasoning
 - Week 18: pitch and revision notes
 
 Use the [Capstone Rubric](./capstone-rubric.md) together with the [Systems Log Guide](./systems-log-guide.md).

@@ -19,7 +19,7 @@ This appendix offers a general alignment to widely used NGSS structures. It is n
 | Scale, proportion, and quantity | Week 4 reservoir size, Week 5 atmospheric concentration, Weeks 8-10 load and regeneration |
 | Systems and system models | Entire course; strongest in Weeks 3, 7, 11, and 15-18 |
 | Energy and matter | Weeks 1-6 especially, plus circular design work in Weeks 11-14 |
-| Structure and function | Week 3 terrarium design, Week 13 repairability and modularity, Week 16 specs |
+| Structure and function | Week 3 terrarium design, Week 13 repairability and modularity, Week 16 plan details |
 | Stability and change | Weeks 8-10 carrying capacity and collapse, Optional Week 1 tipping points |
 
 ---
@@ -32,9 +32,9 @@ This appendix offers a general alignment to widely used NGSS structures. It is n
 | Developing and using models | Terrarium models, water-cycle maps, carbon and nitrogen diagrams, box-and-arrow capstone sketches |
 | Planning and carrying out investigations | Terrarium observations, local water audits, away audits, tracking the Resource Pool Game |
 | Analyzing and interpreting data | Observation tables, token game data, simple rates and quantities, post-pitch feedback |
-| Using mathematics and computational thinking | Sustainable-yield calculations, quantity estimates, specs and throughput reasoning |
+| Using mathematics and computational thinking | Sustainable-yield calculations, quantity estimates, and matter-or-energy flow reasoning |
 | Constructing explanations and designing solutions | Weekly explanations plus capstone redesign proposal |
-| Engaging in argument from evidence | Week 17 stakeholder reasoning and Week 18 audience questions |
+| Engaging in argument from evidence | Week 17 affected-people reasoning and Week 18 audience questions |
 | Obtaining, evaluating, and communicating information | Source-note use, research extensions, pitch preparation, written and oral explanations |
 
 ---
@@ -69,7 +69,7 @@ Students in this band most often show alignment through:
 - labeled diagrams
 - rough quantitative reasoning
 - written explanation
-- explicit tradeoff and failure-mode analysis
+- explicit tradeoff and risk analysis
 
 ---
 
@@ -88,4 +88,4 @@ This curriculum also supports adjacent literacy goals:
 
 If you need to document alignment for a class plan, the simplest language is:
 
-"Students develop and use models of environmental systems, trace matter and energy flows, analyze constraints and load limits, and design evidence-based solutions to a local open-loop problem."
+"Students develop and use models of environmental systems, trace matter and energy flows, analyze limits and load, and design evidence-based solutions to a local open-loop problem."

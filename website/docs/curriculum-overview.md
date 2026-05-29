@@ -2,153 +2,131 @@
 sidebar_position: 1
 sidebar_label: "Curriculum Overview"
 title: "Curriculum Overview"
-description: "An overview of the 14-week core sequence, 4-week capstone, and optional extensions in Environmental Systems Literacy for Kids"
+description: "A clear overview of the 18-week curriculum, the built-in age paths, and the optional extension weeks."
 ---
 
 # Curriculum Overview
 
-Environmental Systems Literacy for Kids is a 14-week core sequence plus a 4-week capstone for ages 8–12. It treats the Earth as a closed-loop engineered system and teaches students to analyze it that way.
+Environmental Systems Literacy for Kids is an 18-week course for ages 8-12. It teaches children to trace where energy comes from, where matter goes, where loops are working, and where systems get stuck or overloaded.
 
-The curriculum is organized into five units, each building on the last. The first fourteen weeks establish the core systems models. The final four weeks form a capstone in which students identify a real open-loop process in their own environment, design a closed-loop redesign, stress-test it, and present it to a real audience.
-
----
+The course stays neutral and systems-based. It is not an activism curriculum, and it does not use guilt as a teaching tool. The main child-facing path is concrete and warm. Technical depth is still available for older learners and facilitators.
 
 ## What Makes This Curriculum Distinctive
 
-Most environmental education uses one of two framings:
+Most environmental materials lead with either appreciation or alarm. This curriculum leads with systems thinking.
 
-- **Naturalist framing:** Earth is beautiful and we should appreciate it.
-- **Activist framing:** Earth is in crisis and we should fix it.
+Children learn to ask questions like:
 
-This curriculum uses a third framing: **engineering**. Earth is a complex system with inputs, outputs, throughput, feedback loops, and load limits. Human industry is another system with the same components. The interesting questions are: where do the two interface, where is the interface working, where is it failing, and what would a redesign look like?
+- What is moving?
+- Where did it come from?
+- Where does it go next?
+- Is this part of a loop or a straight line?
+- What happens when the system gets overloaded?
+- What would a better design look like?
 
-This framing has consequences for tone:
+That framing helps children think clearly without turning the course into a moral contest.
 
-- **No emotional appeals.** No "save the planet." No guilt.
-- **No moral framing.** Industry is not "evil." Nature is not "innocent." Both are systems.
-- **No political positioning.** Policy questions are downstream of systems analysis, and this course stays upstream.
-- **Engineering language throughout.** Throughput. Closed loop. Carrying capacity. Tipping point. Mass conservation.
+## Weekly Rhythm
 
-The intent is to give students the analytical tools to think clearly about environmental questions for the rest of their lives — without telling them what to conclude.
+Each week is designed for about 20-30 minutes per session.
 
----
+- Guided Session 1 introduces the idea through an observation, drawing task, model, or game.
+- Guided Session 2 deepens the idea with one more activity or redesign step.
+- The Systems Log captures what the child noticed, drew, and still wonders.
 
-## Prerequisites
+Every core week includes:
 
-None. The course assumes no prior background in environmental science, biology, chemistry, or engineering. Facilitators do not need any technical background either.
+- a child-friendly big question
+- a Kid Version in One Sentence
+- a Short Path for Younger Learners
+- an Extra Challenge for Older Learners
+- 3-5 core vocabulary words
+- at least one Draw It prompt and Talk About It prompt
+- a short Systems Log template
+- a Grown-up Note with common misconceptions
 
-Basic arithmetic (counting, percentages) is helpful for Weeks 8–10. Younger learners can do these weeks with simpler quantities.
+## Unit Map
 
----
+| Unit | Weeks | Main idea |
+|---|---|---|
+| The Planetary Engine | 1-3 | Sunlight, energy changes, and a tiny world in a jar |
+| The Planet's Plumbing | 4-7 | Water, carbon, nitrogen, and tracing where matter goes |
+| Limits and Patterns | 8-10 | System limits, curve shapes, and the shared fish pond game |
+| Better System Shapes | 11-14 | Straight lines, loops, repair, and one small redesign |
+| The Redesign Project | 15-18 | Turn one idea into a plan, test it, and share it with someone real |
 
-## Unit Structure
+## Week-by-Week Snapshot
 
-### Unit 1 — The Planetary Engine (Weeks 1–3)
+### Unit 1
 
-Students establish how the planet runs: the sun powers the entire system, energy obeys the laws of thermodynamics, and a sealed micro-ecosystem can demonstrate the closed-matter / open-energy distinction firsthand.
+- Week 1: Sunlight Detective
+- Week 2: Energy Changes Form
+- Week 3: Build a Tiny World in a Jar
 
-- **Week 1:** Solar energy as the system's power input
-- **Week 2:** Thermodynamics, entropy, and trophic efficiency
-- **Week 3:** The Terrarium Test — building and observing a closed-loop micro-ecosystem (runs for 4–6 weeks of observation across subsequent weeks)
+### Unit 2
 
-### Unit 2 — The Plumbing and the Supply Chain (Weeks 4–7)
+- Week 4: The Adventure of a Water Drop
+- Week 5: Carbon the Shape-Shifter
+- Week 6: The Locked Food Plants Can't Open
+- Week 7: There Is No Away
 
-Students map the three biogeochemical cycles that move matter around the planet, then trace what happens when a human-made object enters the system and where its matter ends up.
+### Unit 3
 
-- **Week 4:** The water cycle as planetary plumbing
-- **Week 5:** The carbon cycle and geological carbon
-- **Week 6:** The nitrogen cycle and the Haber-Bosch override
-- **Week 7:** The "Away" Audit — tracing a plastic water bottle from extraction to end-of-life
+- Week 8: How Much Is Too Much?
+- Week 9: Why Numbers Go Up and Down
+- Week 10: The Shared Fish Pond Game
 
-### Unit 3 — System Limits and Load Balancing (Weeks 8–10)
+### Unit 4
 
-Students learn that every system has a load limit, what happens when limits are exceeded, and how multiple users sharing a single resource pool can collapse the pool even when no individual intended that outcome.
+- Week 11: Straight-Line Systems and Loop Systems
+- Week 12: Can This Go Back Into a Loop?
+- Week 13: Fix-It Detective
+- Week 14: One Small Loop Challenge
 
-- **Week 8:** Carrying capacity and load limits
-- **Week 9:** Population dynamics, overshoot, and the boom-bust cycle
-- **Week 10:** The Resource Depletion Simulation — a playable tabletop game
+### Unit 5
 
-### Unit 4 — Re-Engineering the Interface (Weeks 11–14)
+- Week 15: Turn Your Idea Into a Plan Someone Could Try
+- Week 16: Make the Plan Real
+- Week 17: Test Your Plan Like a Friendly Troublemaker
+- Week 18: Share Your Plan With Someone Real
 
-Students compare the linear industrial API to the circular natural API, learn circular design principles (cradle-to-cradle, designing for disassembly, Right to Repair), and complete a practice redesign exercise as a warm-up for the capstone.
+## Built-In Age Paths
 
-- **Week 11:** The linear API and why it mismatches natural systems
-- **Week 12:** Circular design, biological vs. technical nutrients
-- **Week 13:** Right to Repair and product longevity as throughput reduction
-- **Week 14:** Practice redesign — preview of the capstone
+This is one curriculum with two visible access paths.
 
-### Unit 5 — The Redesign Project (Weeks 15–18, capstone)
+- **Short Path for Younger Learners** keeps the work practical, low-pressure, and easy to run in 15-20 minutes.
+- **Extra Challenge for Older Learners** adds optional depth, more measurement, and more formal vocabulary.
 
-Students complete a four-week engineering capstone: identify one specific open-loop process in their home, school, or community; develop a structured proposal; stress-test it; and present it to a real audience as an engineering proposal — not an environmental appeal.
+The main lesson flow is still designed to work for mixed-age groups.
 
-- **Week 15:** Identify the open-loop process and produce a formal systems diagnosis
-- **Week 16:** Engineer the solution — specifications, constraints, tradeoffs
-- **Week 17:** Stress-test the design — second-order effects, who would resist, what breaks it
-- **Week 18:** Present the proposal to a real audience
+## Optional Extension Weeks
 
----
+Two optional weeks are available for older learners, highly interested children, or adult-led groups that want more challenge.
 
-## Optional Extensions
+- Optional Week 1: amplifying loops and tipping behavior
+- Optional Week 2: intentional planetary-scale interventions, treated as systems tradeoffs
 
-Two bonus weeks are available for learners or groups who want to go further:
-
-- **Optional Week 1: Amplifying Loops and Tipping Points** — a deeper look at feedback loops, with examples drawn from climate science (ice-albedo feedback, permafrost methane release) and early warning signals from complex systems theory.
-- **Optional Week 2: Geoengineering** — planetary-scale interventions (stratospheric aerosol injection, ocean iron fertilization, direct air capture) analyzed as pure engineering tradeoffs, with no advocacy.
-
-These are designed to slot in after Week 9 (feedback loops) and after Week 14 (geoengineering) respectively, but can be used standalone.
-
----
-
-## Facilitator Resources
-
-The course now includes a supporting resource set intended to make planning, assessment, and artifact production easier without changing the lesson sequence.
-
-- [Materials Master List](./materials-master-list.md)
-- [Systems Log Guide](./systems-log-guide.md)
-- [Assessment and Rubrics](./assessment-and-rubrics.md)
-- [Capstone Rubric](./capstone-rubric.md)
-- [Example Student Work](./example-student-work.md)
-- [Printable Templates](./printable-templates.md)
-- [Source Notes](./source-notes.md)
-- [Standards Alignment](./standards-alignment.md)
-
-Use these as facilitator tools, not as extra student workload.
-
----
+These weeks are not required for finishing the core 18-week sequence.
 
 ## What Success Looks Like
 
-A student who completes this curriculum should be able to:
+A student finishing the course should be able to:
 
-- Pick up any manufactured object and describe its likely raw-material origins and end-of-life destination.
-- Look at a process and identify whether its outputs become inputs to other processes (closed loop) or accumulate as waste (open loop).
-- Estimate whether a shared resource is being used at a sustainable rate.
-- Distinguish a balancing feedback loop from an amplifying one in a real-world example.
-- Draft a one-page engineering proposal for closing a specific open loop in their immediate environment.
+- trace an object's path backward and forward
+- explain a loop and a straight-line system in plain language
+- notice when a system is nearing a limit
+- draw a simple flow or loop diagram
+- propose a small redesign with a clearer return path
+- explain a plan in a clear, honest voice to a real person
 
-The aim is not memorization. The aim is a permanent shift in how the student sees the physical world around them — from a collection of separate objects to a system of flows.
+## Facilitator Resources
 
----
+Use these pages as support tools, not as extra student workload.
 
-## How to Pace the Course
-
-Most families and classrooms complete one week per calendar week, with two guided sessions and one independent-practice session. Some adjustments work well:
-
-- **Faster:** Combine the two guided sessions into one longer session for older learners.
-- **Slower:** Spread each week's sessions across two calendar weeks for younger learners.
-- **Capstone-focused:** Spend two weeks each on the capstone steps (Weeks 15–18 stretched to 8 weeks) for a more substantial final project.
-
-Whatever pace you choose, do not skip the terrarium in Week 3. It runs as a background experiment for the rest of the course, and students refer back to it repeatedly.
-
----
-
-## How to Use This Curriculum Alongside Other Subjects
-
-Environmental Systems Literacy for Kids fits naturally next to:
-
-- **Science:** Chemistry (cycles), physics (thermodynamics), and biology (ecology) all reinforce the content here.
-- **Math:** Carrying capacity calculations, sustainable yield, and the depletion simulation all involve real arithmetic.
-- **Civics or social studies:** The capstone proposal includes a community-pitch component that uses real communication skills.
-- **The other Literacy for Kids curricula:** Decision Literacy (decision-making under uncertainty), Financial Literacy (resource flows), and Civic Literacy (collective action) all share systems-thinking DNA and reinforce each other.
-
-If you are running multiple curricula in parallel, the shared mental models will compound.
+- [Systems Log Guide](./systems-log-guide.md)
+- [Materials Master List](./materials-master-list.md)
+- [Printable Templates](./printable-templates.md)
+- [Assessment and Rubrics](./assessment-and-rubrics.md)
+- [Example Student Work](./example-student-work.md)
+- [Source Notes](./source-notes.md)
+- [Standards Alignment](./standards-alignment.md)

@@ -1,330 +1,174 @@
 ---
 sidebar_position: 1
-sidebar_label: "Week 1: How Solar Energy Drives Everything"
-title: "Week 1: How Solar Energy Drives Everything"
-description: "Students learn how solar radiation drives ocean currents, weather patterns, and photosynthesis."
+sidebar_label: "Week 1: Sunlight Detective"
+title: "Week 1: Sunlight Detective (How Solar Energy Drives Everything)"
+description: "Children trace how sunlight powers warm sidewalks, breezes, plants, and many other Earth systems."
 ---
 
-# Week 1: How Solar Energy Drives Everything
+# Week 1: Sunlight Detective (How Solar Energy Drives Everything)
 *Unit 1: The Planetary Engine*
 
-Welcome to Environmental Systems Literacy for Kids. Over this 14-week core sequence and 4-week capstone, we will treat Earth as an engineered system — looking at how energy enters, how matter moves, where loops close, and where they break.
+## This Week's Big Question
 
-This week we start at the source:
+How many things can you trace back to sunlight?
 
-**Almost every process on the surface of the Earth is powered by one external input — sunlight.**
+Sunlight can feel ordinary because it is always around. This week, children start treating it like a clue. Warm pavement, a sunny window, a breeze, an apple, and a moving cloud all point back to the same power source.
 
-Plants use it to build sugar. Oceans absorb it and move heat from the equator toward the poles. Weather happens because some patches of ground heat faster than others. Even the wind you feel on your face is sunlight being converted into moving air. The planet has one main power supply, and every other process plugs into it.
+## Kid Version in One Sentence
 
----
+The sun is the main power source for almost everything happening on Earth's surface.
 
-:::info Facilitator Snapshot
-- This week is about *seeing* the sun as the system's energy input, not a beautiful background object.
-- The big idea: follow any process backward far enough and you usually end at sunlight.
-- Resist the urge to dive into climate change this week — that comes much later. Right now we are just identifying the power source.
-- Introduce the Systems Log at the end of the week. A simple notebook is all you need.
-:::
+## You'll Discover
 
-:::tip Quick Navigation
-- [Facilitator Preparation](#facilitator-preparation)
-- [Guided Session 1: The Solar Power Test](#guided-session-1)
-- [Guided Session 2: Tracing the Energy](#guided-session-2)
-- [Independent Practice](#independent-practice)
+- how sunlight can warm things you can touch and measure
+- how arrows can show a path from the sun to plants, weather, and food
+- why many Earth-surface systems stop working without sunlight
+
+:::info Grown-up Note
+- Main goal: help the learner notice sunlight as an input, meaning something that comes into a system from outside.
+- Keep the mood curious, not grand. The child does not need a full lecture on photosynthesis or climate to succeed this week.
+- Sessions are designed for about 20-30 minutes. Use the Short Path when you only have 15-20 minutes.
+
+**Common Kid Misconceptions**
+- Misconception: "The sun only gives light, not power." Response: "Light is one form of energy. When sunlight warms a cup or helps a plant grow, that is power in action."
+- Misconception: "Food comes from the store, not the sun." Response: "Stores are one stop on the path. We can trace the food farther back."
+- Misconception: "Everything on Earth uses solar energy." Response: "Almost everything on Earth's surface does. A few exceptions, like geothermal heat and tides, can go in the Older Learner box for now."
 :::
 
 ## Week at a Glance
 
 | | |
 |---|---|
-| **Prep time** | ~10 minutes |
-| **Materials** | A sunny window or outdoor space, two cups (one black, one white or clear), water, a thermometer (optional but helpful), notebook for Systems Log |
-| **Key vocabulary** | solar energy, photosynthesis, system, input, throughput |
-| **Difficulty** | Introductory |
+| Session length | About 20-30 minutes |
+| Prep time | About 10 minutes |
+| Materials | Two cups, water, sunny spot, dark paper or dark cup, light cup, pencil, paper, Systems Log |
+| Safety | Do not use water near plugs or hot car interiors; avoid staring at the sun |
+| Core vocabulary | sunlight, energy, input, arrow, photosynthesis |
+| Older learner words | solar radiation, solar constant, throughput |
 
-## Facilitator Preparation
+## Core Vocabulary
 
-:::info Before You Begin
-- Find a sunny window or an outdoor spot where a cup of water can sit undisturbed for 30–60 minutes.
-- Gather two cups: one dark-colored, one light-colored or clear. Same size, same starting amount of water.
-- If you have a thermometer (even a meat thermometer or a simple aquarium one), set it aside.
-- Prepare a simple notebook for the Systems Log — this will be used through the full course sequence, including the capstone.
-:::
+| Word | Kid-friendly meaning |
+|---|---|
+| sunlight | Energy from the sun that can light and warm things |
+| energy | The power that makes things change, move, warm up, or grow |
+| input | Something that comes into a system |
+| arrow | A simple way to show where something goes next |
+| photosynthesis | The way plants use sunlight to make sugar |
 
-:::tip Facilitation Mindset
-This week is about **noticing** what was previously invisible.
+## Short Path for Younger Learners
 
-Students see sunlight every day. The goal is to get them to see it as a *power source* — measurable, calculable, the input to almost every Earth-surface process. Don't lecture. Let them observe a cup of water getting warm, then ask what happened.
-:::
+- Do one cup test in sunlight.
+- Draw three things the sun powered today.
+- Make one arrow chain, such as `Sun -> plant -> apple -> me`.
+- Use the Systems Log with a drawing and one spoken or written sentence.
 
-## Minimum Path for Ages 8–9
+Success looks like: the child can explain that sunlight powers many things even when the path is indirect.
 
-- Core activity: Run the two-cup sunlight test and let the learner decide which cup warmed faster.
-- Core diagram or log task: Draw the sun and three things it powers, then add arrows from the sun to each one.
-- Discussion questions:
-   1. Which cup got warmer, and why?
-   2. What would stop working if the sun went away?
-   3. What is one thing the sun powers that you do not usually notice?
-- Success looks like: The learner can explain that sunlight is the main energy input for life, weather, and many surface processes on Earth.
-- Skip for younger learners: the solar-constant number, longer energy-tracing chains, and the fuller photosynthesis breakdown.
+## Extra Challenge for Older Learners
 
-:::info For Ages 10–12
-- Introduce the actual numbers: the Earth receives roughly 1,360 watts of solar power per square meter at the top of the atmosphere (the "solar constant"). About half of that reaches the ground.
-- Calculate: a sunny patch of ground the size of a doormat (about 1 m²) gets enough sunlight in one hour to fully charge a laptop several times over.
-- Discuss why deserts are hot and the poles are cold — same sun, different angle, different surface area being warmed.
-:::
+- Compare a dark cup and a light cup in the same sunlight and describe why one warmed faster.
+- Trace two longer chains, such as `Sun -> warm ground -> moving air -> wind` and `Sun -> plant -> animal -> me`.
+- Estimate how many everyday things in a room depend on sunlight somewhere in their story.
 
----
+## Read-Aloud Opening
 
-## Guided Session 1
-### The Solar Power Test
-#### Learning Goal
-By the end of this session, the student can:
+"Today we are becoming sunlight detectives. We are going to look at ordinary things and ask a new question: where did the power for that come from? A warm sidewalk, a leaf, an apple, a breeze, and even the food in your lunch can all lead us back to the sun."
 
-- describe sunlight as a measurable input of energy to the Earth system
-- observe firsthand that solar energy can warm matter and change its state
-- begin to think of "the sun" as a power supply rather than a background object
+## Guided Session 1: The Sunny Cup Test
 
----
+**Time:** 20-25 minutes
 
-#### Activities
+**Materials:** two same-size cups, water, a sunny windowsill or outdoor spot, dark paper or a dark cup, a light or clear cup, notebook
 
-**1. The Two Cups**
+**Safety note:** Do not place cups where they can spill onto electronics. Do not use a hot car as the test location.
 
-Fill two identical cups with the same amount of room-temperature water. One cup should be dark-colored (or wrapped in dark paper). The other should be light-colored or clear. Place both in a sunny spot.
+**Setup:**
 
-Before walking away, ask:
+1. Fill both cups with the same amount of room-temperature water.
+2. Make one cup dark and leave the other light.
+3. Put both in the same sunny place.
+4. Ask for a prediction before waiting.
 
-> "Which cup do you think will warm up faster? Why?"
+**What to ask:**
 
-Write down the prediction. Set a timer for 30–60 minutes.
+- Which cup do you think will warm up faster?
+- What is the sun doing to the water?
+- If we left the cups longer, what might happen next?
 
-When the timer goes off, measure (or feel) the temperature of both cups.
+**Activity steps:**
 
-Discussion:
+1. Let the child touch the cups at the start so they know they began the same.
+2. Leave the cups in sunlight while you talk, draw, or do a quick second task.
+3. Return and compare by touch.
+4. Ask where the warming came from.
 
-- Which cup warmed up more? Why?
-- Where did the energy come from? (The sun.)
-- If we left the cups out all day, what would happen? (They would keep getting warmer until they reached equilibrium with the surroundings.)
-- If we left them out for *days*, what would eventually happen to the water? (It would evaporate.)
+**Draw It:** Draw the two cups before and after. Add arrows from the sun to each cup.
 
-Key takeaway: **The sun is delivering energy to anything that absorbs it. That energy can warm things up, change them from liquid to gas, or drive other processes.**
+**Talk About It:**
 
----
+- Why might the dark cup soak up more sunlight?
+- What else have you touched that felt warm from the sun?
+- Where else do you think that kind of warming matters on Earth?
 
-**2. What Would Stop Without the Sun?**
+**What success looks like:** The child notices that sunlight can change the temperature of real objects.
 
-Ask the student to brainstorm a list. What would stop happening if the sun went dark tomorrow?
+## Guided Session 2: Follow the Arrows
 
-Some answers students often think of:
+**Time:** 20-30 minutes
 
-- Plants would stop growing (no photosynthesis).
-- It would get dark (obviously).
-- It would get cold (no incoming heat).
+**Materials:** paper, pencil or markers, Systems Log
 
-Push for less obvious answers:
+**Setup:** Write or say one simple chain first: `Sun -> plant -> apple -> me`.
 
-- The wind would stop. (Wind is caused by uneven heating of the Earth's surface.)
-- Rain would stop. (Rain requires evaporated water, which requires solar energy to evaporate.)
-- Ocean currents would stop. (They are driven partly by surface temperature differences caused by the sun.)
-- Food chains would collapse. (Plants are the bottom of nearly every food chain. No plants, no food for anything else.)
+**Activity steps:**
 
-The point: almost every process on the surface of the Earth has the sun as its ultimate power source.
+1. Start with one familiar object, such as an apple, a sandwich, a houseplant, or a breeze outside.
+2. Ask, "What happened right before this?" and keep going backward.
+3. Draw arrow chains together.
+4. Keep the younger path short: one object is enough.
 
----
+Try examples like:
 
-**3. The Big Idea: System Input**
+- `Sun -> plant -> apple -> me`
+- `Sun -> warm ground -> moving air -> wind`
+- `Sun -> plant -> cow -> milk`
 
-Introduce the word **input**.
+**Talk About It:**
 
-> "An input is something that goes into a system from outside. The Earth's biggest energy input is the sun. We can trace almost every process on Earth backward until we hit that input."
+- Which arrow chain surprised you most?
+- What would stop if sunlight stopped coming in?
+- Is the sun powering only living things, or also weather and water movement?
 
-Use a simple diagram on paper:
+**Draw It:** Draw three things the sun powered today.
 
-```
-[ SUN ] → [ ground warms / plants grow / water evaporates ] → [ life, weather, wind ]
-   input              throughput                                outputs
-```
+**What success looks like:** The child can use arrows to trace at least one everyday thing back to sunlight.
 
----
+## Systems Log
 
-## Guided Session 2
-### Tracing the Energy
-#### Learning Goal
-By the end of this session, the student can:
+Use this simple entry:
 
-- trace a familiar object or process back to solar energy
-- describe photosynthesis as the conversion of solar energy into chemical energy
-- explain why food, fuel, and wind all share the same ultimate power source
-
----
-
-#### Activities
-
-**1. Photosynthesis in One Sentence**
-
-Explain:
-
-> "A leaf is a tiny solar panel. It captures sunlight and uses that energy to combine air and water into sugar. The sugar is stored chemical energy. Animals eat plants to get that energy back out. That is how the sun powers nearly all life."
-
-Draw the simplest possible version:
-
-```
-sunlight + CO₂ + water  →  sugar + oxygen
-   (energy in)                  (energy stored)
+```text
+What I noticed:
+What moved:
+Where it came from:
+Where it went:
+My drawing:
+One question I still have:
 ```
 
-No need to memorize the chemistry. The point is that **plants are how sunlight gets converted into a form that animals can use**.
+Helpful prompts for this week:
 
----
+- What I noticed: "The dark cup felt..."
+- What moved: "Heat moved into..."
+- Where it came from: "The energy came from..."
+- My drawing: arrows from the sun to three things
 
-**2. The Energy Trace Game**
+## Engineer Corner
 
-Pick three everyday items. For each, trace the energy chain back to its source.
+Older learners and facilitators can go one step deeper here.
 
-Worked examples:
-
-| Item | Trace |
-|------|-------|
-| **Apple** | Apple ← apple tree grew apple using sunlight (photosynthesis) ← sunlight |
-| **Burger** | Beef ← cow ate grass ← grass grew using sunlight ← sunlight |
-| **Wind blowing your hair** | Wind ← air moves because some ground is warmer than other ground ← sunlight |
-| **Gasoline in a car** | Gasoline ← refined from crude oil ← crude oil came from ancient marine organisms ← those organisms ate or photosynthesized ← sunlight (millions of years ago) |
-
-Now have the student pick three items themselves and trace each one back to the sun.
-
-The one item they should try to find that does *not* trace back to sunlight: geothermal heat (energy from the Earth's hot interior) or tidal energy (from the moon's gravity). Almost everything else is solar.
-
----
-
-**3. Discussion: One Power Supply**
-
-Ask:
-
-> "If everything on the surface of the Earth runs on solar energy, why doesn't the planet keep getting hotter and hotter forever?"
-
-Let the student think about it. The honest answer (which we will revisit in Week 2): the energy that comes in eventually leaves again as heat radiating back into space. The Earth is not storing all that energy permanently — it is *throughput*.
-
-Introduce the word **throughput**:
-
-> "Throughput is how much energy or material is flowing through a system per unit of time. Solar energy is constantly flowing into Earth, getting used, and flowing back out as heat. Earth is a throughput system, not a storage tank."
-
----
-
-## Independent Practice
-
-### Goal
-
-Observe a real solar-powered process and start the Systems Log.
-
-### Activities
-
-**1. The Sunlight Diary**
-
-Over one full day, write down or draw five things you saw that were powered (directly or indirectly) by the sun. Be specific.
-
-Examples to model:
-
-- "I saw a bee on a flower. The flower used sunlight to make nectar. The bee will use that nectar for energy."
-- "My friend was riding a bike. They were powered by lunch. Lunch came from plants that grew with sunlight."
-- "I felt a breeze. Breezes come from the sun warming the ground unevenly."
-
-**Minimum viable version (younger learners):** Pick just one thing and draw it with an arrow back to the sun.
-
----
-
-**2. The Trace Challenge**
-
-Pick the most surprising, indirect thing you can find that traces back to the sun. Some good ones to consider:
-
-- A wooden chair (tree → sunlight)
-- A glass of milk (cow → grass → sunlight)
-- A wind turbine spinning (wind → uneven heating → sunlight)
-- A waterfall (rain → evaporated water → solar energy)
-
-Write down the trace.
-
----
-
-### Systems Log
-
-Start your Systems Log with this first entry:
-
-> **Today's System:** The sun and the Earth's surface.
->
-> **What I observed:** [Write or draw what you saw in the two-cups demonstration, or in your Sunlight Diary.]
->
-> **Input:** ____
->
-> **What changed:** ____
->
-> **Where the energy went:** ____
-
-**Sentence starters for younger learners:**
-- "The sun made ___ happen today."
-- "I saw ___ and it traced back to the sun because ___."
-
-**Oral option:** Tell a parent or facilitator your answers. They can write them in the log for you.
-
-### Reflection Questions
-
-- Was there anything you traced back to the sun that surprised you?
-- Can you think of anything on Earth that does *not* run on solar energy?
-- If the sun got 10% brighter for a year, what do you think would happen?
-
-
-## Local Investigation Prompt
-
-Find three things near your home, street, yard, or school that are running on today's sunlight directly or indirectly. Which one is easiest to explain with arrows?
-
----
-
-## Check for Understanding
-
-After this week, check whether the learner can:
-
-1. **Name the system's power input:** "What is the main source of energy for almost everything happening on the Earth's surface?" (Looking for: "the sun" or "sunlight.")
-2. **Trace one item:** "Pick something in this room and trace it back to where its energy came from." (Looking for: any item traced back through one or more steps to sunlight.)
-3. **Distinguish input from storage:** "Is the Earth using up the sun's energy and storing it, or is the energy flowing through?" (Looking for: a sense that energy flows through — comes in, gets used, leaves as heat.)
-
-If the learner can do at least 2 of these, they're ready for Week 2.
-
----
-
-## Pause and Notice
-
-:::note What Matters Here
-After the two-cups demonstration, ask:
-
-> "We just measured energy moving from one place to another. Did anything about that surprise you? Did the system behave the way you expected?"
-
-The point of this curriculum is to make systems *visible*. Every week, we will look at a process that was probably happening in the background of your life and we will examine it. The sun was there yesterday too — but maybe you noticed it differently today.
-
-**This week's takeaway:** The sun is not just a thing in the sky. It is the system's power input. Once you see that, the rest of the curriculum starts to make sense.
-:::
-
----
-
-## Spiral Review
-
-:::tip Connecting to Earlier Weeks
-This is the first week, so there is nothing to spiral back to yet. But starting next week, every lesson will include a brief callback so concepts compound instead of fading.
-
-For now, hold onto this: **every system has an energy input, a throughput, and outputs**. We will use those three words constantly.
-:::
-
----
-
-
-:::tip Extend (Ages 10–12)
-Look up the **solar constant** (about 1,360 W/m² at the top of Earth's atmosphere). Calculate how much energy hits a 10 m × 10 m patch of ground in one minute (assume about 1,000 W/m² reaches the surface on a sunny day). Compare it to the wattage of common appliances. Discuss why solar panels are economically interesting given those numbers.
-:::
-
-:::tip Vocabulary This Week
-**Input** • **Throughput** • **System** • **Solar energy** • **Photosynthesis**
-:::
-
-## Preview of Next Week
-
-Next week, we explore two rules that govern *how* the sun's energy moves through Earth's systems — the laws of thermodynamics. We learn why energy always degrades into less useful forms, and why a hawk has to eat so many mice.
-
-
+- At the top of Earth's atmosphere, the sun provides about 1,360 watts per square meter. This is often called the solar constant.
+- The ground receives less because some sunlight reflects away or gets absorbed by the atmosphere.
+- A useful systems idea for later: energy keeps moving through Earth. Older learners may hear this called throughput, meaning how much moves through a system over time.
+- A few Earth systems do not trace mainly to sunlight, such as geothermal heat and tides. Those are interesting exceptions, not the main pattern.

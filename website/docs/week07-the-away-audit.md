@@ -1,382 +1,172 @@
 ---
 sidebar_position: 7
-sidebar_label: "Week 7: Tracing a Product's Complete Physical Journey"
-title: "Week 7: Tracing a Product's Complete Physical Journey"
-description: "Students map the complete physical journey of a household item from raw extraction to final physical destination."
+sidebar_label: "Week 7: There Is No Away"
+title: "Week 7: There Is No Away (Tracing a Product's Complete Physical Journey)"
+description: "Children trace where a familiar object comes from, where it goes next, and why throwing it away only moves it somewhere else."
 ---
 
-# Week 7: Tracing a Product's Complete Physical Journey
-*Unit 2: The Plumbing and the Supply Chain*
+# Week 7: There Is No Away (Tracing a Product's Complete Physical Journey)
+*Unit 2: The Planet's Plumbing*
 
-For the last three weeks, we have been tracing natural cycles: water, carbon, nitrogen. The matter in those cycles goes around and around — every atom has a future.
+## This Week's Big Question
 
-This week we shift to a human-made object and trace it the same way. The result is usually different.
+When something goes in the trash, where does it actually go?
 
-The central principle for this week:
+This week starts as a mystery. A bottle, cereal box, banana peel, or sheet of paper looks simple until children trace the full road map behind it. The object is not the villain. The path is the lesson.
 
-> **There is no "away." When you throw something away, it does not vanish. It changes location and possibly form. Every atom is still on the planet — just somewhere else.**
+## Kid Version in One Sentence
 
-This is the **principle of mass conservation**, applied to everyday objects. It is one of the deepest ideas in this curriculum. Once a student internalizes it, they cannot un-see it.
+Throwing something away only moves it somewhere else.
 
----
+## You'll Discover
 
-:::info Facilitator Snapshot
-- This week's centerpiece is a fully traced example: a plastic water bottle, from geological extraction to final destination.
-- The facilitator walks through the example first, then students do their own audit on a different object.
-- The aim is observation, not guilt. No "single-use plastic is evil" framing. Just "here is the actual physical path."
-- Many students assume recycling means the material goes back into the same kind of product indefinitely. In practice, much plastic recycling becomes lower-grade material or a different product category, and many items still exit the loop after limited reuse.
-:::
+- how one object can have a long physical journey
+- why recycling, trash, and compost lead to different next places
+- how to draw an object's path as a map with stops
 
-:::tip Quick Navigation
-- [Facilitator Preparation](#facilitator-preparation)
-- [Guided Session 1: The Worked Example](#guided-session-1)
-- [Guided Session 2: Your Own Audit](#guided-session-2)
-- [Independent Practice](#independent-practice)
+:::info Grown-up Note
+- Keep the tone curious and calm. The goal is tracing, not guilt.
+- Choose clean, safe objects only. Do not inspect dirty trash.
+- Sessions are designed for about 20-30 minutes. Use the Short Path when you only have 15-20 minutes.
+
+**Common Kid Misconceptions**
+- Misconception: "Away is a real place." Response: "Away usually means another place in the system."
+- Misconception: "Recycling means the same item becomes the same item forever." Response: "Sometimes it can, but often the material changes into something else or leaves the loop later."
+- Misconception: "The bottle is bad." Response: "The object is a clue. We are studying the path it travels."
 :::
 
 ## Week at a Glance
 
 | | |
 |---|---|
-| **Prep time** | ~15 minutes |
-| **Materials** | A plastic water bottle (for visual reference), 5–10 other household objects (food packaging, clothing tag, toy, electronics, etc.), paper, pencils, Systems Log |
-| **Key vocabulary** | mass conservation, lifecycle, raw material, end-of-life, recycling, downcycling, landfill, microplastic |
-| **Difficulty** | Moderate |
+| Session length | About 20-30 minutes |
+| Prep time | About 10 minutes |
+| Materials | One clean household object, paper, markers, Systems Log |
+| Safety | Use clean items only; do not sort dirty trash or sharp metal |
+| Core vocabulary | path, trash, recycle, compost, return path |
+| Older learner words | lifecycle, linear system, PET, downcycling |
 
-## Facilitator Preparation
+## Core Vocabulary
 
-:::info Before You Begin
-- Have an actual plastic water bottle on hand. Look at the bottom — there is usually a recycling symbol with a number (1 = PET, 2 = HDPE, etc.). Note the number.
-- Gather 5–10 other small household items the student can pick from for their own audit. Good candidates: a piece of food packaging, a clothing tag (cotton vs. polyester), a small toy, a battery, a paper milk carton, a banana peel.
-- Have the Systems Log and terrarium ready.
-:::
+| Word | Kid-friendly meaning |
+|---|---|
+| path | The route something takes |
+| trash | A stream that usually goes to dumping or burning |
+| recycle | To process material so it can be used again |
+| compost | To let food or plant material break down into soil-like material |
+| return path | A way for material to become useful again |
 
-:::tip Facilitation Mindset
-This is the week where the engineering frame really lands. The instinct will be to feel guilty about plastic. Resist that on behalf of the student.
+## Short Path for Younger Learners
 
-The frame is: **a system has been built that doesn't fully close the loop**. The plastic bottle isn't the villain. The water bottle is a beautifully engineered drinking vessel. The system around it just doesn't have a return path. We are going to *see* that absence of a return path in detail.
-:::
+- Pick one clean object.
+- Draw its journey as a road map with 4-6 stops.
+- Ask where it goes after use.
+- Fill in the Systems Log with one drawing and one question.
 
-## Minimum Path for Ages 8–9
+Success looks like: the child can explain that an object has a before path and an after path.
 
-- Core activity: Use one real plastic bottle and trace its journey from oil or gas extraction to factory, store, use, and final destination.
-- Core diagram or log task: Draw the bottle's path as a stop-by-stop map with arrows.
-- Discussion questions:
-      1. Where does "away" really mean for this bottle?
-      2. What are two places the bottle might end up after use?
-      3. If the bottle is recycled, does that close the loop forever?
-- Success looks like: The learner can explain that throwing something away changes its location, not its existence.
-- Skip for younger learners: PET chemistry, exact recycling percentages, and the more technical microplastic detail.
+## Extra Challenge for Older Learners
 
-:::info For Ages 10–12
-- Discuss the chemistry: PET (polyethylene terephthalate) is made by polymerizing ethylene glycol and terephthalic acid, both derived from crude oil.
-- Look up actual recycling rates. In the U.S., recent PET bottle recycling rates have often been under one-third, and many bottles still go to landfill, incineration, or leakage.
-- Discuss "downcycling" — recycled PET may become new bottles in cleaner systems, but it is also commonly turned into fiber, textiles, or lower-grade packaging depending on contamination, economics, and collection quality.
-- Calculate how many PET bottles are produced globally per year using a current source. Recent estimates are often in the hundreds of billions. What fraction appears to be recovered?
-:::
+- Compare two different endings for the same object: recycling, landfill, compost, repair, or reuse.
+- Notice which materials have an easier return path and which do not.
+- Discuss why even recycling still needs energy, sorting, and working systems.
 
+## Read-Aloud Opening
 
-## Safety and Care Notes
+"Today we are solving an 'away' mystery. When something leaves our hands, it does not leave the planet. It goes to another place, changes form, or enters a new system. We are going to map that journey like detectives."
 
-- Do not open batteries, electronics, chemical containers, or any unknown waste item.
-- Use only clean household packaging for close inspection.
-- If an item is sharp, dirty, or wet, let an adult handle it.
-- Wash hands after handling packaging, trash, or recycling.
+## Guided Session 1: Map One Object's Journey
 
----
+**Time:** 20-25 minutes
 
-## Guided Session 1
-### The Worked Example: A Plastic Water Bottle
-#### Learning Goal
-By the end of this session, the student can:
+**Materials:** one clean bottle, cereal box, old paper, cardboard box, or banana peel; paper; markers
 
-- trace a manufactured object through every stage from raw material to end-of-life
-- identify where the loop is open versus closed
-- describe what happens to the matter at each "end-of-life" pathway
+**Safety note:** Choose clean, dry objects only.
 
----
+**Setup:** Put the object in the center of the table.
 
-#### Activities
+**Activity steps:**
 
-**1. Pick Up the Bottle**
+1. Ask where the object came from before it reached the house or classroom.
+2. Add stops going backward: ground, field, tree, factory, truck, store.
+3. Add the use step.
+4. Add the possible next places after use.
 
-Hold up an actual plastic water bottle. Ask:
+Simple example:
 
-> "Where did this bottle come from? Not the store. The actual original material — where in the world did the atoms in this bottle start out?"
+`ground -> factory -> store -> use -> recycling or trash -> next place`
 
-Most students will say "a factory." Push: where did the factory's raw material come from?
+**What to ask:**
 
-The honest answer: **crude oil, pulled out of the ground from a geological reservoir**.
+- What was this object before it was this object?
+- Which stop in the journey took the most work?
+- What happens after the object leaves us?
 
----
+**Draw It:** Draw the object's journey as a road map with stops.
 
-**2. Trace the Full Journey**
+**Talk About It:**
 
-Walk through the seven stages in order. Use the diagram below or sketch it as you go.
+- Which part of the path could you not see before today?
+- Which endings are loops, and which are more like one-way paths?
+- What would make this object's path easier to close into a loop?
 
-**Stage 1 — Raw material extraction.** Crude oil is pumped out of geological formations. Major oil-producing regions include the Middle East (Saudi Arabia, Iraq, UAE), Russia, the United States (especially the Permian Basin in Texas and the Bakken in North Dakota), and various others.
+**What success looks like:** The child can tell the object's story from source to next place.
 
-> "The atoms in this bottle were buried in ancient marine sediments. They were the bodies of plankton and algae that lived hundreds of millions of years ago. Pressure and heat turned them into hydrocarbons."
+## Guided Session 2: Sort the Next Place
 
-**Stage 2 — Refining and polymerization.** Crude oil goes to a refinery. There it is separated into different fractions. A fraction called **naphtha** is chemically converted (via cracking, polymerization, and other steps) into **PET pellets** — small plastic granules. The cap is typically a different plastic: **HDPE** or **polypropylene**.
+**Time:** 20-30 minutes
 
-**Stage 3 — Manufacturing.** The PET pellets are shipped (often to a plant in Asia, depending on global supply chains) to a bottle plant. They are heated, then blown into bottle molds using compressed air. The cap is made separately by injection molding. Labels are printed and applied.
+**Materials:** 3-5 clean objects, paper labeled trash, recycling, compost, reuse
 
-**Stage 4 — Filling and distribution.** The empty bottle is shipped (often again, sometimes thousands of miles) to a bottling facility, where it is filled with water (which itself may have been trucked from a spring or filtered from municipal supply). It is then packaged into cases, loaded onto trucks, shipped to distribution centers, then to retail stores.
+**Setup:** Make four labeled zones or signs.
 
-**Stage 5 — Use.** A person buys the bottle. Drinks the water. The whole "use" phase often lasts 5–10 minutes.
+**Activity steps:**
 
-**Stage 6 — Disposal.** The person decides what to do with the empty bottle. Three main paths:
+1. Put each clean object in the middle.
+2. Ask where it should go next and why.
+3. Talk about what happens after that step.
+4. Notice which items have strong return paths and which are hard to loop.
 
-**Stage 7a — If recycling bin:** The bottle is collected by waste haulers, sorted (often by automated optical sorters), cleaned, shredded into flakes, melted down, and reformed into recycled PET. In some systems that material can return to bottle production, but it is also commonly routed into fiber, textiles, or non-food packaging. Repeated processing, contamination, and economics often push material into lower-grade uses or out of the loop entirely.
+**What to ask:**
 
-**Stage 7b — If trash bin → landfill:** The bottle is hauled to a landfill, buried under other waste, and compressed. Plastic bottles are often cited as persisting for hundreds of years, though actual breakdown rates depend heavily on conditions. Over time the material may fragment into **microplastics** — fragments smaller than 5 millimeters. The atoms do not go away; they get smaller and more dispersed.
+- Which items have a clear next place?
+- Which items are hard to loop back into use?
+- Is the next place the end, or just another stop?
 
-**Stage 7c — If littered → ocean:** Some mismanaged plastic waste reaches waterways, rivers, and eventually the ocean. There it gets exposed to sunlight, wave action, and salt water, which can help it fragment into smaller pieces. Microplastics have been documented in deep-sea sediments, Arctic ice, fish, shellfish, and many human environments.
+**Draw It:** Draw one object's path ending in two different ways.
 
----
+**Talk About It:**
 
-**3. Draw the Diagram**
+- What is the difference between reusing and recycling?
+- Why does compost work for some materials and not others?
+- What material seems easiest to loop well?
 
-Together, sketch the full lifecycle:
+**What success looks like:** The child can compare at least two different endings for one object.
 
-```
-       [Underground oil reservoir, 300+ million years old]
-                        ↓ extraction
-                  [Refinery]
-                        ↓ polymerization
-                  [PET pellets]
-                        ↓ shipped (often international)
-                  [Bottle factory]
-                        ↓ shipped to
-                  [Bottling plant]
-                        ↓ trucked to
-                  [Store]
-                        ↓ purchased by consumer
-                  [Drinking (~10 min)]
-                        ↓
-                  [Empty bottle, decision point]
-                       /|\
-                      / | \
-              recycle  trash  litter
-                |        |        |
-                                    downcycle  landfill  waterways
-                |        |        |
-                                    sometimes   fragments in   fragments in ocean,
-                                          exits      soil or waste   fish, and other
-                                          loop       systems         environments
+## Systems Log
+
+Use this simple entry:
+
+```text
+What I noticed:
+What moved:
+Where it came from:
+Where it went:
+My drawing:
+One question I still have:
 ```
 
-Stand back from this diagram with the student. Ask:
+Helpful prompts for this week:
 
-> "Where does the loop close? Where does it stay open?"
+- What I noticed: "This object was made from..."
+- What moved: "The object moved from... to ..."
+- Where it went: "After use it could go to..."
+- My drawing: a road map with stops
 
-The loop closes *partially* through recycling — but even recycled PET eventually leaves the loop. **There is no path that returns the original carbon and hydrogen atoms to the same geological reservoir they came from.** That route is one-way.
+## Engineer Corner
 
----
+Older learners and facilitators can keep the deeper supply-chain details here.
 
-## Guided Session 2
-### Your Own Audit
-#### Learning Goal
-By the end of this session, the student can:
-
-- pick a manufactured object and trace its complete lifecycle
-- distinguish materials that can biodegrade, technically cycle, or accumulate
-- identify the open and closed segments of the loop
-
----
-
-#### Activities
-
-**1. Pick an Object**
-
-Have the student choose an object from the assortment you gathered (or from around the house). Good choices:
-
-- A piece of food packaging (Styrofoam tray, plastic bag, cardboard box, aluminum can)
-- A small toy
-- A clothing tag — which means tracing the fabric: cotton (plant), polyester (plastic), wool (animal), or a blend
-- A banana peel
-- A paper milk carton (multi-layer: paper + plastic + sometimes aluminum)
-- An old battery
-- A piece of mail
-
----
-
-**2. Trace It**
-
-Using the same seven-stage framework, walk the object through:
-
-1. **Raw material extraction** — Where do the basic materials come from? (Mined? Drilled? Farmed? Logged?)
-2. **Refining or processing** — How is the raw material turned into a usable form?
-3. **Manufacturing** — How was the object actually made?
-4. **Distribution** — How did it get to you?
-5. **Use** — How long is it actually used?
-6. **Disposal** — What happens when it's done?
-7. **End-of-life destination** — Where does the matter actually end up?
-
-For each stage, what is the **energy cost**? What is the **distance traveled**?
-
----
-
-**3. Categorize the Material**
-
-After tracing, categorize the object's main materials:
-
-| Type | Behavior | Example |
-|------|----------|---------|
-| **Biological nutrient** | Will biodegrade and return to soil cycle | Paper, cotton, wood, food scraps |
-| **Technical nutrient** | Can be recycled and reused indefinitely (in theory) | Aluminum, steel, glass |
-| **Mixed/contaminated** | Made of materials that are bonded in ways that prevent recycling | Tetra Paks (paper + plastic + foil), multi-material toys |
-| **Persistent open-loop** | Will accumulate as microplastics or in landfills for centuries | Most plastics |
-
-For the chosen object, where does it fit? Often the answer is "mixed" — a toy might have plastic, metal, and electronics all glued together.
-
----
-
-**4. The "There Is No Away" Diagnosis**
-
-Have the student write one sentence:
-
-> "When I throw away this _____, the matter that makes it up will end up _____ for approximately _____ years."
-
-Examples:
-
-- "When I throw away this plastic bottle, the matter that makes it up will likely stay in a landfill or waste system for a very long time and may fragment into smaller pieces over time."
-- "When I throw away this banana peel into compost, the matter will end up in garden soil within approximately 1 month."
-- "When I throw away this aluminum can, the matter that makes it up will end up either as a new aluminum product within approximately 6 months (if recycled) or in a landfill for hundreds of years (if not)."
-
----
-
-## Independent Practice
-
-### Goal
-
-Conduct a one-day "away" audit of everything that leaves your home as waste.
-
-### Activities
-
-**1. The 24-Hour Trash Census**
-
-For one full day, every time you throw something away (or put something in recycling), write it down. At the end of the day, you should have a list.
-
-For each item on the list, write:
-
-- What it is
-- What it's made of (best guess)
-- Where it actually goes (landfill / recycling / compost / sewer / atmosphere)
-- How long the matter will persist there
-
-Sample table:
-
-| Item | Material | Destination | Persistence |
-|------|----------|-------------|-------------|
-| Snack wrapper | Plastic + foil laminate | Landfill | 100+ years |
-| Banana peel | Biological | Compost (if available) or landfill | Weeks |
-| Soda can | Aluminum | Recycling | Indefinite (if reprocessed) |
-| Used tissue | Paper | Landfill | Months–years |
-| Water down sink | Water | Sewer → treatment → river → ocean | Cycles |
-| ... | ... | ... | ... |
-
----
-
-**2. Pick Three "Aways"**
-
-From your list, pick the three items whose journey surprised you most. Draw or describe what really happens to them after they leave your house.
-
----
-
-**3. Terrarium Check**
-
-Week 4 of terrarium observation. Open the Systems Log:
-
-- Day count: __
-- Condensation, soil, plants — any new changes?
-- This week, notice: nothing has left your terrarium. Every atom of carbon, hydrogen, nitrogen, oxygen, and water that was there on Day 0 is still there. The system has no "away." It has to keep working with what it has. (That's why it works.)
-
-### Systems Log
-
-> **Today's System:** The lifecycle of one manufactured object
->
-> **Object I audited:** ____
->
-> **Lifecycle sketch:** [stage-by-stage diagram]
->
-> **Where the matter actually ends up:** ____
->
-> **What surprised me:**
->
-> **Terrarium update:** ____
-
-**Sentence starters for younger learners:**
-- "When I throw away ___, it actually goes to ___."
-- "The bottle started as ___ a long time ago."
-
-### Reflection Questions
-
-- Pick the most surprising item from your audit. Why did its actual destination surprise you?
-- A glass bottle, an aluminum can, and a plastic bottle all hold the same amount of liquid. From a system perspective, which one has the most complete loop available to it? Why?
-- Why is it not surprising that plastic fragments can show up far from the place where a bottle was first used?
-
-
-## Local Investigation Prompt
-
-Do a short local away audit. Pick one item from your home, lunch, classroom, or recycling bin and trace the first three places it will likely go after it leaves you.
-
----
-
-## Check for Understanding
-
-After this week, check whether the learner can:
-
-1. **State the principle:** "Where does 'away' actually go?" (Looking for: any version of "it doesn't go away; it just moves and changes form.")
-2. **Trace one object:** "Trace this object back to its raw material." (Looking for: at least three accurate steps backward from product to extraction.)
-3. **Identify an open loop:** "Pick something in this room. Is its lifecycle a closed loop or an open one?" (Looking for: a correct categorization with a reason — usually "open because it ends in a landfill.")
-
-If the learner can do at least 2 of these, they're ready for Week 8.
-
----
-
-## Pause and Notice
-
-:::note What Matters Here
-After the audits, look at the totals together.
-
-> "Today you made waste. So did I. So does every human on Earth. The question isn't whether to make waste — for now, the linear system is what we have. The question is: where did our outputs go, and what is happening to them now?"
-
-Once you can see the system, you can ask better questions about it. **Knowing that a plastic bottle can persist for a very long time and fragment into smaller pieces is not a guilt trip. It is a systems observation.** What anyone does with that fact is up to them.
-
-**This week's takeaway:** There is no away. Every output of every process has a real, traceable destination. When you can name that destination, you can think clearly about the system.
-:::
-
-
-## Source Notes
-
-For plastic-production context, recycling caveats, and microplastic framing, see the central [Source Notes](./source-notes.md). Use the source-notes page when you want the most current figures before teaching.
-
----
-
-## Spiral Review
-
-:::tip Connecting to Earlier Weeks
-- **From Week 5 (carbon):** A plastic bottle is fossil carbon, refined and shaped. When it eventually breaks down to microplastics and slowly oxidizes, that ancient carbon enters the fast cycle as CO₂ — sometimes over many years.
-- **From Week 6 (nitrogen):** The cotton in your clothes was grown with synthetic fertilizer — Haber-Bosch nitrogen. Some of that nitrogen ran off into water before the cotton even came to you.
-- **From Week 4 (water):** Liquid waste (anything down a drain) enters the water cycle. The water itself can be cleaned and reused, but contaminants that came along may move with it for a long time.
-- **From Week 3 (terrarium):** The terrarium has had zero waste because it has nowhere for waste to go. Everything inside has to be reused. The system enforces conservation directly.
-:::
-
----
-
-
-:::tip Extend (Ages 10–12)
-Look up the **Great Pacific Garbage Patch** (NOAA's pages are a good source). It is not a "trash island" as often imagined, but a vast area of dispersed plastic debris, much of it microplastic suspended in the water column. Discuss why this is harder to clean up than a literal island of garbage would be. Calculate (or estimate) how many bottles' worth of plastic would equal the mass currently estimated to be in the patch.
-:::
-
-:::tip Vocabulary This Week
-**Mass conservation** • **Lifecycle** • **Raw material** • **End-of-life** • **Recycling vs. downcycling** • **Landfill** • **Microplastic**
-:::
-
-## Preview of Next Week
-
-Next week we start a new unit: **system load limits**. We look at how every environment has a maximum amount of biological or industrial activity it can support — and what happens when that limit is exceeded.
-
-
+- PET chemistry, exact recycling rates, and downcycling complexity belong here.
+- A useful systems insight: recycling helps, but a loop still has costs, losses, and limits.
+- A return path is stronger when the material is clean, sorted, and easy to process.
